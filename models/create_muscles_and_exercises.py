@@ -22,3 +22,5 @@ local_session.add(example_muscle)
 # Write to the database
 local_session.commit()  # for m in muscles:
 
+
+# Load all exercises in from the JSON file
