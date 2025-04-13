@@ -5,7 +5,7 @@ from sqlalchemy.orm import Mapped, mapped_column, declarative_base, relationship
 # from models.muscle import Muscle
 
 
-DATABASE_URL = "sqlite:///gymdb.db"
+DATABASE_URL = "sqlite:////Users\\jmoga\\Documents\\GitHub\\autonomic-gym\\models\\gymdb.db"
 Base = declarative_base()
 engine = create_engine(DATABASE_URL, echo=True)
 Session = sessionmaker()

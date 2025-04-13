@@ -6,7 +6,7 @@ from sqlalchemy.orm import Mapped, mapped_column, declarative_base, relationship
 
 
 Base = declarative_base()
-DATABASE_URL = "sqlite:///gymdb.db"
+DATABASE_URL = "sqlite:////Users\\jmoga\\Documents\\GitHub\\autonomic-gym\\models\\gymdb.db"
 engine = create_engine(DATABASE_URL, echo=True)
 
 Session = sessionmaker(bind=engine)

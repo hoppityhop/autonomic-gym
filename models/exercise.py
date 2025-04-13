@@ -2,13 +2,15 @@ from sqlalchemy import *
 from sqlalchemy.orm import relationship, Mapped
 # from muscle import Muscle
 
-from base import BaseModel
+from models.base import BaseModel
 
 
 class Exercise(BaseModel):
     __tablename__ = "exercise"
 
     id = Column(Integer, primary_key=True, autoincrement=True)
+
+    force = Column(Enum("PUSH", "PULL"), nullable=False)
 
     name = Column(String(50), nullable=False)
     # Equipment will need to be related to an Equipment row through a foreign key
