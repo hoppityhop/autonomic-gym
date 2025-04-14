@@ -16,25 +16,54 @@ all_exercises = []
 
 for i in range(1, len(data)):
     print(data[i])
-    new_exercise = Exercise(force=data[i]['force'].upper(), name=data[i]['name'], description=data[i]['instructions'],
-                            level=data[i]['level'].upper(), mechanic=data[i]['mechanic'], avg_time_per_set=43)
-    # Add the primary muscle
-    primary_muscle_name = data[i]['primaryMuscles']
+    with Session(bind=engine) as session:
+        try:
+            new_exercise = Exercise(
+                force=data[i]['force'].upper(),
+                name=data[i]['name'],
+                description=data[i]['instructions'],
+                level=data[i]['level'].upper(),
+                mechanic=data[i]['mechanic'],
+                avg_time_per_set=43
+            )
 
-    #Remove all punctuation from the primary muscle name
-    primary_muscle_name = ''.join(char for char in primary_muscle_name if char.isalnum() or char.isspace())
+            # Clean and query the primary muscle
+            primary_muscle_name = ''.join(char for char in data[i]['primaryMuscles'] if char.isalnum() or char.isspace())
+            primary_muscle = session.query(Muscle).filter_by(name=primary_muscle_name).first()
 
-    # Query DB to retrieve the primary muscle using SQLAlchemy ORM
-    primary_muscle = local_session.query(Muscle).filter_by(name=primary_muscle_name).first()
+            if primary_muscle:
+                new_exercise.primary_muscle = primary_muscle
+                session.add(new_exercise)
+                session.commit()
+            else:
+                print(f"Primary muscle '{primary_muscle_name}' not found in the database.")
+        except Exception as e:
+            print(f"Error processing record {i}: {e}")
+            session.rollback()
 
-    if primary_muscle:
-        new_exercise.primary_muscle = primary_muscle
-    else:
-        print(f"Primary muscle '{primary_muscle_name}' not found in the database.")
-        continue
 
-    all_exercises.append(new_exercise)
-    #Write to the database
-    # local_session.add(new_exercise)
-local_session.add_all(all_exercises)
-local_session.commit()
+#
+# for i in range(1, len(data)):
+#     print(data[i])
+#     new_exercise = Exercise(force=data[i]['force'].upper(), name=data[i]['name'], description=data[i]['instructions'],
+#                             level=data[i]['level'].upper(), mechanic=data[i]['mechanic'], avg_time_per_set=43)
+#     # Add the primary muscle
+#     primary_muscle_name = data[i]['primaryMuscles']
+#
+#     #Remove all punctuation from the primary muscle name
+#     primary_muscle_name = ''.join(char for char in primary_muscle_name if char.isalnum() or char.isspace())
+#
+#     # Query DB to retrieve the primary muscle using SQLAlchemy ORM
+#     primary_muscle = local_session.query(Muscle).filter_by(name=primary_muscle_name).first()
+#
+#     if primary_muscle:
+#         new_exercise.primary_muscle = primary_muscle
+#     else:
+#         print(f"Primary muscle '{primary_muscle_name}' not found in the database.")
+#         continue
+#
+#     all_exercises.append(new_exercise)
+#     #Write to the database
+#     # local_session.add(new_exercise)
+# local_session.add_all(all_exercises)
+# local_session.commit()
