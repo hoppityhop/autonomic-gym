@@ -39,7 +39,7 @@ class Exercise(Base):
     avg_time_per_set: Mapped[int] = mapped_column(Integer, nullable=False)
 
     # primary muscle
-    primary_muscle_name: Mapped[str] = mapped_column(ForeignKey("muscle.name"))
+    primary_muscle_name: Mapped[str] = mapped_column(ForeignKey("muscle.name"), nullable=True)
     primary_muscle: Mapped[Muscle] = relationship(back_populates="exercises")
 
     # secondary muscles (list)
