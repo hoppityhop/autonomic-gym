@@ -1,3 +1,5 @@
+from typing import List
+
 from sqlalchemy import *
 from sqlalchemy.orm import Mapped, relationship, mapped_column
 from models import Base
@@ -8,3 +10,4 @@ class Muscle(Base):
 
     name: Mapped[str] = mapped_column(String(50), primary_key=True, nullable=False, unique=True)
 
+    exercises: Mapped[List["Exercise"]] = relationship(back_populates="primary_muscle")
