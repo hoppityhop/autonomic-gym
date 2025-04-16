@@ -1,15 +1,10 @@
 from sqlalchemy import *
-from sqlalchemy.orm import Mapped, relationship
-# from exercise import Exercise
-
-from .base import BaseModel
+from sqlalchemy.orm import Mapped, relationship, mapped_column
+from models import Base
 
 
-class Muscle(BaseModel):
-    __tablename__ = "muscle"
+class Muscle(Base):
+    __tablename__ = 'muscle'
 
-    # Name should be the primary key for this table
-    name = Column(String(50), primary_key=True, nullable=False, unique=True)
+    name: Mapped[str] = mapped_column(String(50), primary_key=True, nullable=False, unique=True)
 
-    # exercises: Mapped[list["Exercise"]] = relationship("Exercise", back_populates="muscle")
-    exercises = relationship("Exercise", back_populates="primary_muscle")

@@ -1,29 +1,42 @@
 from sqlalchemy import *
-from sqlalchemy.orm import relationship, Mapped
-# from muscle import Muscle
+from sqlalchemy.orm import Mapped, mapped_column
 
-from models.base import BaseModel
+from models import Base
+import enum
 
 
-class Exercise(BaseModel):
-    __tablename__ = "exercise"
+class Force(enum.Enum):
+    PUSH = 'push'
+    PULL = 'pull'
 
-    id = Column(Integer, primary_key=True, autoincrement=True)
 
-    force = Column(Enum("PUSH", "PULL"), nullable=False)
+class Level(enum.Enum):
+    BEGINNER = 'beginner'
+    INTERMEDIATE = 'intermediate'
+    ADVANCED = 'advanced'
+    EXPERT = 'expert'
 
-    name = Column(String(50), nullable=False)
-    # Equipment will need to be related to an Equipment row through a foreign key
 
-    # Level should be ENUM (BEGINNER, INTERMEDIATE, ADVANCED)
-    level = Column(Enum("BEGINNER", "INTERMEDIATE", "ADVANCED"), nullable=False)
-    # Description
-    description = Column(String(500), nullable=False)
-    mechanic = Column(Enum("COMPOUND", "ISOLATION"), nullable=True)
+class Mechanic(enum.Enum):
+    COMPOUND = 'compound'
+    ISOLATION = 'isolation'
 
-    # primary_muscle with the name of the muscle as the foreign key
-    primary_muscle_name = Column(String(50), ForeignKey("muscle.name"), nullable=True)
-    primary_muscle = relationship("Muscle", back_populates="exercises")
-    # Secondary muscles as a list
 
-    avg_time_per_set = Column(Integer, nullable=False)  # in seconds
+class Exercise(Base):
+    __tablename__ = 'exercise'
+
+    id: Mapped[int] = mapped_column(primary_key=True)
+    force: Mapped[Force] = mapped_column(Enum(Force), nullable=False)
+
+    name: Mapped[str] = mapped_column(String(256), nullable=False)
+    level: Mapped[Level] = mapped_column(Enum(Level), nullable=False)
+
+    instructions: Mapped[str] = mapped_column(Text())
+    mechanic: Mapped[Mechanic] = mapped_column(Enum(Mechanic), nullable=True)
+
+    # in seconds
+    avg_time_per_set: Mapped[int] = mapped_column(Integer, nullable=False)
+
+    # primary muscle
+
+    # secondary muscles (list)
