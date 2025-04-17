@@ -29,10 +29,10 @@ def transform_csv_file():
         )
         
         # Call the create_exercise method to add the new exercise to the session
-        created_exercise = create_exercise(new_exercise)
+        ex_name = create_exercise(new_exercise)
 
         primary_muscle_to_add = data[i]['primaryMuscles'][2:-2]
-        add_primary_muscle_to_exercise(primary_muscle_to_add, created_exercise.name)
+        add_primary_muscle_to_exercise(primary_muscle_to_add, ex_name)
 
         
         # with Session(bind=engine) as session:

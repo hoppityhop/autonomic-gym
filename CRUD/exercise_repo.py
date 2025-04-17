@@ -26,7 +26,7 @@ def test_create_exercise(exercise_to_create: Exercise):
             # Create and add the new exercise to the session
             session.add(new_exercise)
             session.commit()
-            return new_exercise
+    return new_exercise
 
 
 def create_exercise(exercise_to_create: Exercise):
@@ -46,16 +46,17 @@ def create_exercise(exercise_to_create: Exercise):
     """
     with SessionLocal() as session:
         # Check whether an exercise with the same name already exists
-        existing_exercise = session.query(Exercise).filter_by(name=exercise_to_create.name).first()
+        ex_name = exercise_to_create.name
+        existing_exercise = session.query(Exercise).filter_by(name=ex_name).first()
 
         if existing_exercise:
             print(f"Exercise '{exercise_to_create.name}' already exists in the database.")
-            return existing_exercise
+            return ex_name
 
         # Create a new Exercise object
         session.add(exercise_to_create)
         session.commit()
-        return exercise_to_create
+    return ex_name
 
 
 def add_primary_muscle_to_exercise(prim_muscle: Muscle, exercise_name):
