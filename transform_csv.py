@@ -1,7 +1,7 @@
 import pandas as pd
 import json
 from models.exercise import Exercise
-from CRUD.exercise_repo import create_exercise, add_primary_muscle_to_exercise
+from CRUD.exercise_repo import create_exercise, add_secondary_muscle, add_primary_muscle_to_exercise
 
 def transform_csv_file():
     # Load the CSV file
@@ -33,29 +33,10 @@ def transform_csv_file():
 
         primary_muscle_to_add = data[i]['primaryMuscles'][2:-2]
         add_primary_muscle_to_exercise(primary_muscle_to_add, ex_name)
-
         
-        # with Session(bind=engine) as session:
-        #     try:
-        #         new_exercise = Exercise(
-        #             force=data[i]['force'].upper(),
-        #             name=data[i]['name'],
-        #             description=data[i]['instructions'],
-        #             level=data[i]['level'].upper(),
-        #             mechanic=data[i]['mechanic'],
-        #             avg_time_per_set=43
-        #         )
-
-        #         # Clean and query the primary muscle
-        #         primary_muscle_name = ''.join(char for char in data[i]['primaryMuscles'] if char.isalnum() or char.isspace())
-        #         primary_muscle = session.query(Muscle).filter_by(name=primary_muscle_name).first()
-
-        #         if primary_muscle:
-        #             new_exercise.primary_muscle = primary_muscle
-        #             session.add(new_exercise)
-        #             session.commit()
-        #         else:
-        #             print(f"Primary muscle '{primary_muscle_name}' not found in the database.")
-        #     except Exception as e:
-        #         print(f"Error processing record {i}: {e}")
-        #         session.rollback()
+        secondary_muscles = data[i]['secondaryMuscles'][2:-2].split(',')
+        for sec_muscle in secondary_muscles:
+            # Clean string of all punctuation and whitespace
+            sec_muscle = sec_muscle.strip().replace("'", "").replace('"', "").replace('[', '').replace(']', '')
+            add_secondary_muscle(sec_muscle, ex_name)
+        print(data[i]['secondaryMuscles'])

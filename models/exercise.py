@@ -1,9 +1,12 @@
+from typing import Set
 from sqlalchemy import *
 from sqlalchemy.orm import Mapped, mapped_column, relationship
 
 from models import Base
 from models.muscle import Muscle
 import enum
+from models.associations import secondary_muscles_association
+
 
 
 class Force(enum.Enum):
@@ -40,6 +43,11 @@ class Exercise(Base):
 
     # primary muscle
     primary_muscle_name: Mapped[str] = mapped_column(ForeignKey("muscle.name"), nullable=True)
-    primary_muscle: Mapped[Muscle] = relationship(back_populates="exercises")
+    primary_muscle: Mapped[Muscle] = relationship(back_populates="primary_exercises")
 
     # secondary muscles (list)
+    secondary_muscles: Mapped[Set[Muscle]] = relationship(
+        "Muscle",
+        secondary="exercise_secondary_muscles",
+        back_populates="secondary_exercises"
+    )

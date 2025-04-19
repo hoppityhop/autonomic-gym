@@ -10,4 +10,10 @@ class Muscle(Base):
 
     name: Mapped[str] = mapped_column(String(50), primary_key=True, nullable=False, unique=True)
 
-    exercises: Mapped[List["Exercise"]] = relationship(back_populates="primary_muscle")
+    primary_exercises: Mapped[List["Exercise"]] = relationship(back_populates="primary_muscle")
+
+    secondary_exercises: Mapped[List["Exercise"]] = relationship(
+        "Exercise",
+        secondary="exercise_secondary_muscles",
+        back_populates="secondary_muscles"
+    )

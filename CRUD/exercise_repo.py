@@ -17,10 +17,12 @@ def test_create_exercise(exercise_to_create: Exercise):
 
     with SessionLocal() as session:
         # Check if the exercise exists in the database
-        existing_exercise = session.query(Exercise).filter_by(name="Bench Press").first()
+        existing_exercise = session.query(
+            Exercise).filter_by(name="Bench Press").first()
 
         if existing_exercise:
-            print(f"Exercise '{existing_exercise.name}' exists in the database.")
+            print(
+                f"Exercise '{existing_exercise.name}' exists in the database.")
             return existing_exercise
         else:
             # Create and add the new exercise to the session
@@ -47,10 +49,12 @@ def create_exercise(exercise_to_create: Exercise):
     with SessionLocal() as session:
         # Check whether an exercise with the same name already exists
         ex_name = exercise_to_create.name
-        existing_exercise = session.query(Exercise).filter_by(name=ex_name).first()
+        existing_exercise = session.query(
+            Exercise).filter_by(name=ex_name).first()
 
         if existing_exercise:
-            print(f"Exercise '{exercise_to_create.name}' already exists in the database.")
+            print(
+                f"Exercise '{exercise_to_create.name}' already exists in the database.")
             return ex_name
 
         # Create a new Exercise object
@@ -71,14 +75,52 @@ def add_primary_muscle_to_exercise(prim_muscle: Muscle, exercise_name):
     """
     with SessionLocal() as session:
         # Check whether a primary muscle already exists on the exercise
-        exercise = session.query(Exercise).filter_by(name=exercise_name).first()
+        exercise = session.query(Exercise).filter_by(
+            name=exercise_name).first()
         if exercise.primary_muscle:
             print(f"Exercise '{exercise.name}' already has a primary muscle.")
             return exercise
         else:
             # Add the primary muscle to the exercise
-            #Get primary muscle from database
-            prim_muscle = session.query(Muscle).filter_by(name=prim_muscle).first()
+            # Get primary muscle from database
+            prim_muscle = session.query(Muscle).filter_by(
+                name=prim_muscle).first()
             exercise.primary_muscle = prim_muscle
+            session.commit()
+            return exercise
+
+
+def add_secondary_muscle(sec_muscle_name, exercise_name):
+    """Add a secondary muscle to an exercise.
+    This function checks if the secondary muscle already exists in the database.
+    If it does, it adds the secondary muscle to the exercise and commits the session.
+
+    Args:
+        sec_muscle_name (string): _description_
+        exercise_name (_type_): _description_
+    """
+    with SessionLocal() as session:
+        # Check whether the secondary muscle exists
+        sec_muscle = session.query(Muscle).filter_by(
+            name=sec_muscle_name).first()
+        if not sec_muscle:
+            print(
+                f"Secondary muscle '{sec_muscle_name}' does not exist in the database.")
+            return None
+        # Check whether the exercise exists
+        exercise = session.query(Exercise).filter_by(
+            name=exercise_name).first()
+        if not exercise:
+            print(
+                f"Exercise '{exercise_name}' does not exist in the database.")
+            return None
+        # Check whether the exercise already has the secondary muscle
+        if sec_muscle in exercise.secondary_muscles:
+            print(
+                f"Exercise '{exercise_name}' already has the secondary muscle '{sec_muscle_name}'.")
+            return exercise
+        else:
+            # Add the secondary muscle to the exercise
+            exercise.secondary_muscles.add(sec_muscle)
             session.commit()
             return exercise
