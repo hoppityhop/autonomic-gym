@@ -8,7 +8,6 @@ import enum
 from models.associations import secondary_muscles_association
 
 
-
 class Force(enum.Enum):
     PUSH = 'push'
     PULL = 'pull'
@@ -46,8 +45,9 @@ class Exercise(Base):
     primary_muscle: Mapped[Muscle] = relationship(back_populates="primary_exercises")
 
     # secondary muscles (list)
-    secondary_muscles: Mapped[Set[Muscle]] = relationship(
-        "Muscle",
-        secondary="exercise_secondary_muscles",
-        back_populates="secondary_exercises"
-    )
+    secondary_muscles: Mapped[Set[Muscle]] = relationship("Muscle", secondary="exercise_secondary_muscles",
+        back_populates="secondary_exercises")
+
+    # String representation of the exercise
+    def __repr__(self):
+        return f"<Exercise(name={self.name}, force={self.force}, level={self.level}, mechanic={self.mechanic}, primary_muscle={self.primary_muscle_name}, secondary_muscles={self.secondary_muscles})>"

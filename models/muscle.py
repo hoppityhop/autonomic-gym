@@ -17,3 +17,6 @@ class Muscle(Base):
         secondary="exercise_secondary_muscles",
         back_populates="secondary_muscles"
     )
+
+    def __repr__(self):
+        return f"<Muscle(name={self.name})>"
