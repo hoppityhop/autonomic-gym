@@ -3,6 +3,7 @@ from sqlalchemy import *
 from sqlalchemy.orm import Mapped, mapped_column, relationship
 
 from models import Base
+from models.equipment import Equipment
 from models.muscle import Muscle
 import enum
 from models.associations import secondary_muscles_association
@@ -46,7 +47,10 @@ class Exercise(Base):
 
     # secondary muscles (list)
     secondary_muscles: Mapped[Set[Muscle]] = relationship("Muscle", secondary="exercise_secondary_muscles",
-        back_populates="secondary_exercises")
+                                                          back_populates="secondary_exercises")
+
+    related_equipment: Mapped[Set[Equipment]] = relationship("Equipment", secondary="equipment_exercise",
+                                                             back_populates="related_exercises")
 
     # String representation of the exercise
     def __repr__(self):

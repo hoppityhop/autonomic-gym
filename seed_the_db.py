@@ -1,9 +1,10 @@
 from CRUD import muscle_repo
 from db import SessionLocal
 from models.exercise import Exercise
-from transform_csv import transform_csv_file
+from transform_csv import transform_csv_file, transform_equipment_csv
 from CRUD.exercise_repo import create_exercise
 from create_db import create_the_db
+
 
 create_the_db()
 
@@ -27,3 +28,6 @@ with SessionLocal() as session:
         print(exercise)
     else:
         print(f"Exercise '{test_exercise}' not found.")
+
+
+transform_equipment_csv()

@@ -1,0 +1,36 @@
+﻿id,machine_name,workouts,only_machine
+plate_loaded_shoulder_press,Plate Loaded Shoulder Press,"[""Shoulder Press""]",yes
+plate_loaded_calf_press,Plate Loaded Calf Press,"[""Seated Calf Raise"", ""Calf Press""]",yes
+machine_calf_press,Machine Calf Press,"[""Seated Calf Raise"", ""Calf Press""]",yes
+seated_leg_press,Seated Leg Press,"[""Calf Press on The Leg Press Machine""]",yes
+linear_leg_press_1,Linear Leg Press,"[""Leg Press""]",no
+linear_leg_press_2,Linear Leg Press,"[""Leg Press""]",no
+hack_squat_1,Hack Squat,"[""Narrow Stance Hack Squats"", ""Standing Calf Raises""]",no
+hack_squat_2,Hack Squat,"[""Narrow Stance Hack Squats"", ""Standing Calf Raises""]",no
+machine_leg_extension_1,Machine Leg Extension,"[""Leg Extensions""]",no
+machine_leg_extension_2,Machine Leg Extension,"[""Leg Extensions""]",no
+machine_leg_curl_1,Machine Leg Curl,"[""Seated Leg Curl""]",no
+machine_leg_curl_2,Machine Leg Curl,"[""Seated Leg Curl""]",no
+prone_leg_curl,Prone Leg Curl,"[""Lying Leg Curls""]",yes
+machine_row_1,Machine Row,"[""Leverage Iso Row"", ""Leverage High Row""]",no
+machine_row_2,Machine Row,"[""Leverage Iso Row"", ""Leverage High Row""]",no
+seated_lat_pulldown,Seated Lat Pulldown,"[""Machine Wide-Grip Lat Pulldown""]",yes
+cable_lat_pulldown_1,Cable Lat Pulldown,"[""Wide-Grip Lat Pulldown"", ""V-Bar Pulldown""]",no
+cable_lat_pulldown_2,Cable Lat Pulldown,"[""Wide-Grip Lat Pulldown"", ""V-Bar Pulldown""]",no
+hip_adductor,Hip Adductor,"[""Thigh Adductor""]",yes
+hip_abductor,Hip Abductor,"[""Thigh Abductor""]",yes
+glute_kickback,Glute Kickback,"[""One-Legged Cable Kickback""]",yes
+machine_shoulder_press,Machine Shoulder Press,"[""Machine Shoulder (Military) Press""]",yes
+converging_shoulder_press,Converging Shoulder Press,"[""Machine Shoulder (Military) Press""]",yes
+machine_incline_chest_press,Machine Incline Chest Press,"[""Incline Machine Chest Press""]",yes
+machine_chest_press,Machine Chest Press,"[""Machine Chest Press""]",yes
+chest_fly_delt_1,Chest Fly Delt,"[""Rear Delt Fly"", ""Reverse Flyes"", ""Chest Flyes""]",no
+chest_fly_delt_2,Chest Fly Delt,"[""Rear Delt Fly"", ""Reverse Flyes"", ""Chest Flyes""]",no
+lateral_raise_1,Lateral Raise,"[""Machine Side Lateral Raise""]",no
+lateral_raise_2,Lateral Raise,"[""Machine Side Lateral Raise""]",no
+tricep_extension_1,Seated Tricep Extension,"[""Machine Triceps Extension""]",no
+tricep_extension_2,Seated Tricep Extension,"[""Machine Triceps Extension""]",no
+tricep_pushdown,Seated Tricep Pushdown,"[""Machine Triceps Pushdown""]",yes
+ab_crunch,Ab Crunch Machine,"[""Ab Crunch Machine""]",yes
+back_extension,Back Extension,"[""Hyperextensions (Back Extensions)""]",yes
+preacher_curl,Machine Preacher Curl,"[""Machine Preacher Curls""]",yes
