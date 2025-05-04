@@ -1,12 +1,38 @@
-from sqlalchemy.orm import Session
+from sqlalchemy.orm import Session, joinedload
 from db import SessionLocal
 from models.exercise import Exercise
 from models.muscle import Muscle
 from models.equipment import Equipment
 
 
-def test_create_equipment(equipment_to_create: Equipment):
-    """Test of creating equipment"""
+def get_equipment_by_name(name: str):
+    """Returns all instances of equipment with the name given as input"""
+
+    with SessionLocal() as session:
+        # equipment = session.query(Equipment).filter_by(name=name).all()
+        equipment = session.query(Equipment).options(joinedload(Equipment.related_exercises)).filter_by(name=name).all()
+        if not equipment:
+            print(f"No equipment found with name '{name}'.")
+            return None
+        print(f"Equipment found:{equipment}")
+
+        # Return dictionary containing the related exercises, their primary and secondary muscles
+        result_dict = {}
+        for eq in equipment:
+            result_dict[eq.name] = {
+                "exercise": equipment,
+                "related_exercises": [
+                    {
+                        "exercise_name": ex.name,
+                        "primary_muscle": ex.primary_muscle_name,
+                        "secondary_muscles": [muscle.name for muscle in ex.secondary_muscles]
+                    }
+                    for ex in eq.related_exercises
+                ]
+            }
+        print(f"Result dictionary: {result_dict}")
+        return equipment
+        # return result_dict
 
 
 def create_equipment(equipment_to_create: Equipment):
