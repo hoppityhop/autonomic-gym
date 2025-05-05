@@ -32,5 +32,5 @@ class Equipment(Base):
     # Equipment has a many to many relationship with exercises
     related_exercises: Mapped[List["Exercise"]] = relationship("Exercise", secondary="equipment_exercise",
                                                              back_populates="related_equipment")
-
+    workout_steps: Mapped[List["WorkoutStep"]] = relationship(back_populates="equipment")
     # TODO: potential extensions include maintenance mode, enumerated exercise category, and possibly a queue of   #  user sessions

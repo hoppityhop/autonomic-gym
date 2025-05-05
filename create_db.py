@@ -2,6 +2,9 @@ from db.session import SessionLocal, engine
 from models import Base
 from models.exercise import Exercise
 from models.muscle import Muscle
+from models.workout_session import WorkoutSession
+from models.equipment import Equipment
+from models.workout_step import WorkoutStep
 
 
 def create_the_db():

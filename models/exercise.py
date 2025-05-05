@@ -1,4 +1,4 @@
-from typing import Set
+from typing import Set, List
 from sqlalchemy import *
 from sqlalchemy.orm import Mapped, mapped_column, relationship
 
@@ -51,6 +51,8 @@ class Exercise(Base):
 
     related_equipment: Mapped[Set[Equipment]] = relationship("Equipment", secondary="equipment_exercise",
                                                              back_populates="related_exercises")
+
+    workout_steps: Mapped[List["WorkoutStep"]] = relationship(back_populates="exercise")
 
     # String representation of the exercise
     def __repr__(self):

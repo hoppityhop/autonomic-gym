@@ -16,7 +16,7 @@ def transform_csv_file():
     # List of objects to add_all with in the session after the for loop
     all_exercises = []
 
-    for i in range(1, len(data)):
+    for i in range(len(data)):
         print(data[i])
 
         instructions = data[i]['instructions'][2:-2]
