@@ -16,6 +16,7 @@ class Status(enum.Enum):
     IN_PROGRESS = 'in_progress'
     COMPLETED = 'completed'
 
+
 class WorkoutStep(Base):
     __tablename__ = 'workout_step'
 
@@ -24,16 +25,23 @@ class WorkoutStep(Base):
 
     sequence_number: Mapped[int] = mapped_column(Integer, nullable=False)
 
-    workout_session_id: Mapped[str] = mapped_column(ForeignKey("workout_session.id"), nullable=True)
-    workout_session: Mapped["WorkoutSession"] = relationship(back_populates="steps")
+    workout_session_id: Mapped[str] = mapped_column(ForeignKey(
+        "workout_session.id", name="fk_workout_session_id"), nullable=True)
+    workout_session: Mapped["WorkoutSession"] = relationship(
+        "WorkoutSession",
+        back_populates="steps",
+        foreign_keys="[WorkoutStep.workout_session_id]")
 
     # One-to-one exercise relationship
-    exercise_id: Mapped[int] = mapped_column(ForeignKey("exercise.id"), nullable=False)
+    exercise_id: Mapped[int] = mapped_column(
+        ForeignKey("exercise.id"), nullable=False)
     exercise: Mapped["Exercise"] = relationship(back_populates="workout_steps")
 
     # One-to-one equipment relationship
-    equipment_id: Mapped[str] = mapped_column(ForeignKey("equipment.id"), nullable=False)
-    equipment: Mapped["Equipment"] = relationship(back_populates="workout_steps")
+    equipment_id: Mapped[str] = mapped_column(
+        ForeignKey("equipment.id"), nullable=False)
+    equipment: Mapped["Equipment"] = relationship(
+        back_populates="workout_steps")
     # Priority score that is an integer between 1 and 50
     priority_score: Mapped[int] = mapped_column(Integer, nullable=False)
 

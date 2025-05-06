@@ -11,6 +11,7 @@ import enum
 class Status(enum.Enum):
     IDLE = 'idle'
     EXERCISING = 'exercising'
+    COMPLETE = 'complete'
 
 
 class WorkoutSession(Base):
@@ -33,4 +34,13 @@ class WorkoutSession(Base):
     status: Mapped[Status] = mapped_column(Enum(Status), nullable=False)
 
     # TODO: Session will need to be one to many to workout steps
-    steps: Mapped[List["WorkoutStep"]] = relationship("WorkoutStep", back_populates="workout_session")
+    steps: Mapped[List["WorkoutStep"]] = relationship(
+        "WorkoutStep", back_populates="workout_session",
+        foreign_keys="WorkoutStep.workout_session_id"
+    )
+    # TODO: Step of workout in progress or next--this will need to be a relationship
+
+    active_step_id: Mapped[Optional[int]] = mapped_column(
+        ForeignKey("workout_step.id", name="fk_active_step_id"), nullable=True)
+    active_step: Mapped[Optional["WorkoutStep"]] = relationship(
+        "WorkoutStep", foreign_keys="[WorkoutSession.active_step_id]")

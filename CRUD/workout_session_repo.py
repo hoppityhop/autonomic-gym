@@ -2,6 +2,7 @@ from sqlalchemy.orm import Session
 from db import SessionLocal
 from models.workout_session import WorkoutSession
 from models.workout_step import WorkoutStep
+from models.exercise import Exercise
 
 
 def create_workout_session(workout_session_to_create):
@@ -22,9 +23,25 @@ def create_workout_session(workout_session_to_create):
             return existing_workout_session
         # Create a new WorkoutSession object
         new_workout_session = WorkoutSession(id=workout_session_to_create['id'],
-            entry_time=workout_session_to_create["entry_time"], cum_wait_time=0, status="IDLE")
+                                             entry_time=workout_session_to_create["entry_time"], cum_wait_time=0,
+                                             status="IDLE")
         # Add the new workout session to the session
         session.add(new_workout_session)
         session.commit()
         session.refresh(new_workout_session)
         return new_workout_session
+
+
+def get_session_by_entry_time(minute):
+    """
+    Gets all workout sessions by their entry time.
+    :param minute:
+    :return:
+    """
+    with SessionLocal() as session:
+        workout_sessions = session.query(WorkoutSession).filter_by(entry_time=minute).all()
+        if not workout_sessions:
+            print(f"No workout sessions found with entry time '{minute}'.")
+            return None
+        print(f"Workout sessions found: {workout_sessions}")
+        return workout_sessions

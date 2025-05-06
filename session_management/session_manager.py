@@ -12,7 +12,7 @@ def create_session_with_steps(session_metadata, steps_list):
 
     # Create the workout session
     workout_session = create_workout_session(session_metadata)
-    prev_time = session_metadata["entry_time"]
+    prev_time = session_metadata["entry_time"]-1
 
     # Iterate through the steps and create each one from the list
     for step in steps_list:
@@ -20,4 +20,7 @@ def create_session_with_steps(session_metadata, steps_list):
         step_res = create_step(step, workout_session.id, prev_time)
         prev_time = step_res.est_end_time
         print(step)
+
+def activate_session(id):
+    pass
 
