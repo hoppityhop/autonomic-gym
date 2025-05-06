@@ -1,0 +1,5131 @@
+[
+    {
+        "uuid": "session-015",
+        "entry_time": 2,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "machine_leg_extension_1",
+                "priority_score": 25,
+                "est_time": 6,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "linear_leg_press_2",
+                "priority_score": 34,
+                "est_time": 11,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "machine_shoulder_press",
+                "priority_score": 18,
+                "est_time": 7,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "glute_kickback",
+                "priority_score": 22,
+                "est_time": 10,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "machine_leg_curl_2",
+                "priority_score": 12,
+                "est_time": 9,
+                "num_sets": 4
+            }
+        ]
+    },
+    {
+        "uuid": "65863dc1-af0b-4272-bdb8-c20659bcee99",
+        "entry_time": 3,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "ab_crunch",
+                "priority_score": 39,
+                "est_time": 8,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "machine_leg_extension_1",
+                "priority_score": 33,
+                "est_time": 9,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "machine_chest_press",
+                "priority_score": 29,
+                "est_time": 10,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "converging_shoulder_press",
+                "priority_score": 46,
+                "est_time": 11,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "preacher_curl",
+                "priority_score": 32,
+                "est_time": 10,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 6,
+                "equipment_name": "chest_fly_delt_2",
+                "priority_score": 34,
+                "est_time": 10,
+                "num_sets": 4
+            }
+        ]
+    },
+    {
+        "uuid": "session-011",
+        "entry_time": 8,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "plate_loaded_shoulder_press",
+                "priority_score": 47,
+                "est_time": 7,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "ab_crunch",
+                "priority_score": 26,
+                "est_time": 6,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "machine_calf_press",
+                "priority_score": 23,
+                "est_time": 10,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "chest_fly_delt_2",
+                "priority_score": 17,
+                "est_time": 8,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "machine_leg_curl_2",
+                "priority_score": 13,
+                "est_time": 11,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 6,
+                "equipment_name": "lateral_raise_1",
+                "priority_score": 20,
+                "est_time": 5,
+                "num_sets": 4
+            }
+        ]
+    },
+    {
+        "uuid": "364c917e-a0fe-4d1c-8baf-0e437a623372",
+        "entry_time": 9,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "linear_leg_press_1",
+                "priority_score": 21,
+                "est_time": 12,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "machine_leg_extension_1",
+                "priority_score": 16,
+                "est_time": 11,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "hack_squat_2",
+                "priority_score": 39,
+                "est_time": 10,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "machine_leg_extension_2",
+                "priority_score": 11,
+                "est_time": 8,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "chest_fly_delt_1",
+                "priority_score": 42,
+                "est_time": 10,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 6,
+                "equipment_name": "tricep_pushdown",
+                "priority_score": 27,
+                "est_time": 9,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 7,
+                "equipment_name": "ab_crunch",
+                "priority_score": 37,
+                "est_time": 8,
+                "num_sets": 4
+            }
+        ]
+    },
+    {
+        "uuid": "session-033",
+        "entry_time": 10,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "glute_kickback",
+                "priority_score": 36,
+                "est_time": 9,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "machine_row_2",
+                "priority_score": 24,
+                "est_time": 7,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "machine_chest_press",
+                "priority_score": 14,
+                "est_time": 5,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "tricep_pushdown",
+                "priority_score": 29,
+                "est_time": 6,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "hack_squat_2",
+                "priority_score": 23,
+                "est_time": 11,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 6,
+                "equipment_name": "ab_crunch",
+                "priority_score": 31,
+                "est_time": 10,
+                "num_sets": 4
+            }
+        ]
+    },
+    {
+        "uuid": "0ee0b624-c6ee-4e0b-a38e-b9f2fd79a7da",
+        "entry_time": 13,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "plate_loaded_shoulder_press",
+                "priority_score": 48,
+                "est_time": 10,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "machine_leg_curl_1",
+                "priority_score": 25,
+                "est_time": 9,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "machine_row_2",
+                "priority_score": 10,
+                "est_time": 8,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "glute_kickback",
+                "priority_score": 33,
+                "est_time": 10,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "converging_shoulder_press",
+                "priority_score": 49,
+                "est_time": 9,
+                "num_sets": 4
+            }
+        ]
+    },
+    {
+        "uuid": "session-023",
+        "entry_time": 14,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "machine_leg_curl_2",
+                "priority_score": 16,
+                "est_time": 7,
+                "num_sets": 5
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "back_extension",
+                "priority_score": 29,
+                "est_time": 8,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "cable_lat_pulldown_2",
+                "priority_score": 35,
+                "est_time": 6,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "machine_shoulder_press",
+                "priority_score": 22,
+                "est_time": 5,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "linear_leg_press_1",
+                "priority_score": 41,
+                "est_time": 8,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 6,
+                "equipment_name": "chest_fly_delt_2",
+                "priority_score": 20,
+                "est_time": 10,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 7,
+                "equipment_name": "hip_abductor",
+                "priority_score": 30,
+                "est_time": 9,
+                "num_sets": 3
+            }
+        ]
+    },
+    {
+        "uuid": "0df524cf-276b-4228-8560-1ddec8977dc9",
+        "entry_time": 14,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "machine_leg_extension_1",
+                "priority_score": 15,
+                "est_time": 8,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "machine_calf_press",
+                "priority_score": 23,
+                "est_time": 9,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "machine_row_2",
+                "priority_score": 26,
+                "est_time": 10,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "machine_leg_curl_1",
+                "priority_score": 31,
+                "est_time": 13,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "machine_shoulder_press",
+                "priority_score": 39,
+                "est_time": 11,
+                "num_sets": 3
+            }
+        ]
+    },
+    {
+        "uuid": "74b5317c-b8d4-4626-bec9-d0710dfdb317",
+        "entry_time": 17,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "seated_leg_press",
+                "priority_score": 20,
+                "est_time": 12,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "machine_leg_curl_2",
+                "priority_score": 42,
+                "est_time": 9,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "prone_leg_curl",
+                "priority_score": 41,
+                "est_time": 8,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "hip_abductor",
+                "priority_score": 12,
+                "est_time": 7,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "machine_leg_extension_1",
+                "priority_score": 26,
+                "est_time": 13,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 6,
+                "equipment_name": "tricep_pushdown",
+                "priority_score": 39,
+                "est_time": 8,
+                "num_sets": 3
+            }
+        ]
+    },
+    {
+        "uuid": "session-001",
+        "entry_time": 18,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "machine_leg_extension_1",
+                "priority_score": 32,
+                "est_time": 8,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "seated_leg_press",
+                "priority_score": 20,
+                "est_time": 10,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "machine_shoulder_press",
+                "priority_score": 15,
+                "est_time": 7,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "machine_chest_press",
+                "priority_score": 10,
+                "est_time": 12,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "ab_crunch",
+                "priority_score": 22,
+                "est_time": 6,
+                "num_sets": 4
+            }
+        ]
+    },
+    {
+        "uuid": "013877f8-f5d1-4a6d-8b40-ccea26fe22f7",
+        "entry_time": 18,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "linear_leg_press_1",
+                "priority_score": 30,
+                "est_time": 12,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "machine_calf_press",
+                "priority_score": 10,
+                "est_time": 9,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "prone_leg_curl",
+                "priority_score": 40,
+                "est_time": 10,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "glute_kickback",
+                "priority_score": 19,
+                "est_time": 11,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "machine_chest_press",
+                "priority_score": 22,
+                "est_time": 8,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 6,
+                "equipment_name": "machine_row_2",
+                "priority_score": 26,
+                "est_time": 9,
+                "num_sets": 3
+            }
+        ]
+    },
+    {
+        "uuid": "ffab51fc-b565-40a8-a31b-440bf0eeb8f8",
+        "entry_time": 19,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "plate_loaded_shoulder_press",
+                "priority_score": 30,
+                "est_time": 9,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "linear_leg_press_2",
+                "priority_score": 40,
+                "est_time": 13,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "machine_leg_extension_1",
+                "priority_score": 46,
+                "est_time": 11,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "seated_leg_press",
+                "priority_score": 23,
+                "est_time": 10,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "back_extension",
+                "priority_score": 44,
+                "est_time": 8,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 6,
+                "equipment_name": "cable_lat_pulldown_1",
+                "priority_score": 33,
+                "est_time": 12,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 7,
+                "equipment_name": "lateral_raise_1",
+                "priority_score": 42,
+                "est_time": 9,
+                "num_sets": 4
+            }
+        ]
+    },
+    {
+        "uuid": "3c73d309-f206-43a8-a237-fe441aa1533e",
+        "entry_time": 19,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "machine_leg_curl_1",
+                "priority_score": 14,
+                "est_time": 8,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "lateral_raise_1",
+                "priority_score": 30,
+                "est_time": 11,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "preacher_curl",
+                "priority_score": 36,
+                "est_time": 10,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "cable_lat_pulldown_1",
+                "priority_score": 34,
+                "est_time": 12,
+                "num_sets": 3
+            }
+        ]
+    },
+    {
+        "uuid": "session-029",
+        "entry_time": 20,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "plate_loaded_shoulder_press",
+                "priority_score": 28,
+                "est_time": 6,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "linear_leg_press_1",
+                "priority_score": 18,
+                "est_time": 11,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "machine_row_2",
+                "priority_score": 37,
+                "est_time": 8,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "glute_kickback",
+                "priority_score": 20,
+                "est_time": 5,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "machine_leg_extension_1",
+                "priority_score": 41,
+                "est_time": 7,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 6,
+                "equipment_name": "machine_calf_press",
+                "priority_score": 31,
+                "est_time": 9,
+                "num_sets": 4
+            }
+        ]
+    },
+    {
+        "uuid": "b66f7025-d639-4e44-b88d-3ee09450b58f",
+        "entry_time": 24,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "machine_leg_curl_2",
+                "priority_score": 31,
+                "est_time": 13,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "tricep_extension_1",
+                "priority_score": 45,
+                "est_time": 8,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "machine_incline_chest_press",
+                "priority_score": 12,
+                "est_time": 10,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "seated_lat_pulldown",
+                "priority_score": 40,
+                "est_time": 9,
+                "num_sets": 3
+            }
+        ]
+    },
+    {
+        "uuid": "00b2c272-a868-4c72-a793-a98c9c5be822",
+        "entry_time": 24,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "seated_lat_pulldown",
+                "priority_score": 20,
+                "est_time": 10,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "linear_leg_press_1",
+                "priority_score": 31,
+                "est_time": 11,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "chest_fly_delt_1",
+                "priority_score": 36,
+                "est_time": 9,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "machine_leg_extension_2",
+                "priority_score": 30,
+                "est_time": 13,
+                "num_sets": 3
+            }
+        ]
+    },
+    {
+        "uuid": "cc490b8e-5dfd-4848-8da8-ab230ec5fec7",
+        "entry_time": 25,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "machine_leg_curl_2",
+                "priority_score": 21,
+                "est_time": 13,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "seated_lat_pulldown",
+                "priority_score": 49,
+                "est_time": 12,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "back_extension",
+                "priority_score": 17,
+                "est_time": 11,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "machine_leg_extension_2",
+                "priority_score": 27,
+                "est_time": 9,
+                "num_sets": 3
+            }
+        ]
+    },
+    {
+        "uuid": "session-050",
+        "entry_time": 26,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "hip_adductor",
+                "priority_score": 31,
+                "est_time": 9,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "linear_leg_press_1",
+                "priority_score": 23,
+                "est_time": 10,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "machine_shoulder_press",
+                "priority_score": 17,
+                "est_time": 12,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "plate_loaded_calf_press",
+                "priority_score": 27,
+                "est_time": 11,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "lateral_raise_1",
+                "priority_score": 39,
+                "est_time": 7,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 6,
+                "equipment_name": "preacher_curl",
+                "priority_score": 22,
+                "est_time": 6,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 7,
+                "equipment_name": "machine_leg_curl_2",
+                "priority_score": 45,
+                "est_time": 8,
+                "num_sets": 4
+            }
+        ]
+    },
+    {
+        "uuid": "b9b8a4cb-54c4-4793-bdde-fea82f3ff152",
+        "entry_time": 28,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "cable_lat_pulldown_1",
+                "priority_score": 14,
+                "est_time": 13,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "machine_leg_extension_1",
+                "priority_score": 30,
+                "est_time": 10,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "machine_calf_press",
+                "priority_score": 29,
+                "est_time": 9,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "preacher_curl",
+                "priority_score": 45,
+                "est_time": 8,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "glute_kickback",
+                "priority_score": 41,
+                "est_time": 11,
+                "num_sets": 3
+            }
+        ]
+    },
+    {
+        "uuid": "session-035",
+        "entry_time": 30,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "seated_leg_press",
+                "priority_score": 12,
+                "est_time": 9,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "machine_incline_chest_press",
+                "priority_score": 20,
+                "est_time": 10,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "lateral_raise_2",
+                "priority_score": 31,
+                "est_time": 8,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "cable_lat_pulldown_2",
+                "priority_score": 22,
+                "est_time": 11,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "back_extension",
+                "priority_score": 39,
+                "est_time": 7,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 6,
+                "equipment_name": "machine_leg_extension_1",
+                "priority_score": 25,
+                "est_time": 9,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 7,
+                "equipment_name": "hack_squat_1",
+                "priority_score": 16,
+                "est_time": 6,
+                "num_sets": 3
+            }
+        ]
+    },
+    {
+        "uuid": "d56f500f-62ec-41b9-a359-1c8fd8241d0a",
+        "entry_time": 33,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "hack_squat_2",
+                "priority_score": 41,
+                "est_time": 12,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "linear_leg_press_2",
+                "priority_score": 11,
+                "est_time": 9,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "machine_row_2",
+                "priority_score": 40,
+                "est_time": 13,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "machine_leg_curl_1",
+                "priority_score": 22,
+                "est_time": 8,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "ab_crunch",
+                "priority_score": 47,
+                "est_time": 10,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 6,
+                "equipment_name": "preacher_curl",
+                "priority_score": 28,
+                "est_time": 8,
+                "num_sets": 3
+            }
+        ]
+    },
+    {
+        "uuid": "session-013",
+        "entry_time": 34,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "machine_row_2",
+                "priority_score": 26,
+                "est_time": 10,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "seated_leg_press",
+                "priority_score": 47,
+                "est_time": 8,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "cable_lat_pulldown_2",
+                "priority_score": 20,
+                "est_time": 9,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "machine_leg_curl_1",
+                "priority_score": 16,
+                "est_time": 7,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "machine_chest_press",
+                "priority_score": 38,
+                "est_time": 6,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 6,
+                "equipment_name": "hack_squat_2",
+                "priority_score": 24,
+                "est_time": 11,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 7,
+                "equipment_name": "machine_incline_chest_press",
+                "priority_score": 32,
+                "est_time": 10,
+                "num_sets": 3
+            }
+        ]
+    },
+    {
+        "uuid": "session-041",
+        "entry_time": 36,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "preacher_curl",
+                "priority_score": 21,
+                "est_time": 8,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "tricep_extension_2",
+                "priority_score": 16,
+                "est_time": 5,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "machine_incline_chest_press",
+                "priority_score": 17,
+                "est_time": 7,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "hip_abductor",
+                "priority_score": 20,
+                "est_time": 6,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "seated_leg_press",
+                "priority_score": 32,
+                "est_time": 9,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 6,
+                "equipment_name": "machine_row_2",
+                "priority_score": 13,
+                "est_time": 11,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 7,
+                "equipment_name": "machine_leg_extension_1",
+                "priority_score": 39,
+                "est_time": 10,
+                "num_sets": 4
+            }
+        ]
+    },
+    {
+        "uuid": "d4aa7744-06f0-4fcf-98e2-f687758a2af5",
+        "entry_time": 37,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "machine_leg_extension_1",
+                "priority_score": 34,
+                "est_time": 12,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "hack_squat_1",
+                "priority_score": 17,
+                "est_time": 10,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "glute_kickback",
+                "priority_score": 10,
+                "est_time": 9,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "machine_leg_curl_1",
+                "priority_score": 21,
+                "est_time": 13,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "machine_leg_curl_2",
+                "priority_score": 25,
+                "est_time": 11,
+                "num_sets": 3
+            }
+        ]
+    },
+    {
+        "uuid": "session-020",
+        "entry_time": 38,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "plate_loaded_calf_press",
+                "priority_score": 40,
+                "est_time": 9,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "machine_row_1",
+                "priority_score": 17,
+                "est_time": 6,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "back_extension",
+                "priority_score": 22,
+                "est_time": 11,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "linear_leg_press_2",
+                "priority_score": 13,
+                "est_time": 8,
+                "num_sets": 3
+            }
+        ]
+    },
+    {
+        "uuid": "b8016c6c-2375-4810-9a2c-d6c7d0e81686",
+        "entry_time": 39,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "machine_calf_press",
+                "priority_score": 22,
+                "est_time": 10,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "linear_leg_press_1",
+                "priority_score": 47,
+                "est_time": 13,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "machine_shoulder_press",
+                "priority_score": 13,
+                "est_time": 9,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "glute_kickback",
+                "priority_score": 32,
+                "est_time": 11,
+                "num_sets": 4
+            }
+        ]
+    },
+    {
+        "uuid": "8fd79a8b-83e0-4954-a2e2-dfccf58ca35a",
+        "entry_time": 41,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "plate_loaded_shoulder_press",
+                "priority_score": 30,
+                "est_time": 9,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "prone_leg_curl",
+                "priority_score": 15,
+                "est_time": 11,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "cable_lat_pulldown_1",
+                "priority_score": 33,
+                "est_time": 12,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "machine_leg_curl_1",
+                "priority_score": 19,
+                "est_time": 10,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "machine_shoulder_press",
+                "priority_score": 14,
+                "est_time": 8,
+                "num_sets": 3
+            }
+        ]
+    },
+    {
+        "uuid": "session-008",
+        "entry_time": 44,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "machine_leg_extension_1",
+                "priority_score": 20,
+                "est_time": 7,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "seated_leg_press",
+                "priority_score": 26,
+                "est_time": 11,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "hack_squat_1",
+                "priority_score": 49,
+                "est_time": 9,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "machine_chest_press",
+                "priority_score": 16,
+                "est_time": 8,
+                "num_sets": 4
+            }
+        ]
+    },
+    {
+        "uuid": "session-043",
+        "entry_time": 46,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "machine_leg_extension_2",
+                "priority_score": 35,
+                "est_time": 11,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "linear_leg_press_1",
+                "priority_score": 23,
+                "est_time": 12,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "lateral_raise_2",
+                "priority_score": 40,
+                "est_time": 9,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "machine_shoulder_press",
+                "priority_score": 29,
+                "est_time": 6,
+                "num_sets": 5
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "cable_lat_pulldown_1",
+                "priority_score": 16,
+                "est_time": 10,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 6,
+                "equipment_name": "machine_row_2",
+                "priority_score": 27,
+                "est_time": 7,
+                "num_sets": 3
+            }
+        ]
+    },
+    {
+        "uuid": "99e9abe1-d920-442e-a2f8-6fa865007206",
+        "entry_time": 47,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "lateral_raise_2",
+                "priority_score": 33,
+                "est_time": 11,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "machine_incline_chest_press",
+                "priority_score": 27,
+                "est_time": 8,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "glute_kickback",
+                "priority_score": 25,
+                "est_time": 10,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "hack_squat_2",
+                "priority_score": 41,
+                "est_time": 12,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "machine_leg_extension_1",
+                "priority_score": 46,
+                "est_time": 9,
+                "num_sets": 3
+            }
+        ]
+    },
+    {
+        "uuid": "session-022",
+        "entry_time": 50,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "chest_fly_delt_1",
+                "priority_score": 27,
+                "est_time": 10,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "seated_leg_press",
+                "priority_score": 31,
+                "est_time": 8,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "preacher_curl",
+                "priority_score": 20,
+                "est_time": 7,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "machine_chest_press",
+                "priority_score": 14,
+                "est_time": 9,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "machine_row_2",
+                "priority_score": 25,
+                "est_time": 6,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 6,
+                "equipment_name": "plate_loaded_shoulder_press",
+                "priority_score": 46,
+                "est_time": 11,
+                "num_sets": 3
+            }
+        ]
+    },
+    {
+        "uuid": "6e891901-bb5d-445c-b45f-75d765102b06",
+        "entry_time": 55,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "hip_adductor",
+                "priority_score": 12,
+                "est_time": 9,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "machine_leg_extension_1",
+                "priority_score": 17,
+                "est_time": 10,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "seated_lat_pulldown",
+                "priority_score": 20,
+                "est_time": 11,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "machine_leg_curl_2",
+                "priority_score": 31,
+                "est_time": 13,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "linear_leg_press_1",
+                "priority_score": 40,
+                "est_time": 7,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 6,
+                "equipment_name": "preacher_curl",
+                "priority_score": 35,
+                "est_time": 10,
+                "num_sets": 4
+            }
+        ]
+    },
+    {
+        "uuid": "79b965d8-27e3-4050-b60f-82d8499a98d1",
+        "entry_time": 55,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "machine_leg_extension_2",
+                "priority_score": 17,
+                "est_time": 9,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "converging_shoulder_press",
+                "priority_score": 31,
+                "est_time": 10,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "hack_squat_1",
+                "priority_score": 26,
+                "est_time": 12,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "chest_fly_delt_1",
+                "priority_score": 47,
+                "est_time": 11,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "machine_leg_curl_2",
+                "priority_score": 40,
+                "est_time": 9,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 6,
+                "equipment_name": "preacher_curl",
+                "priority_score": 10,
+                "est_time": 13,
+                "num_sets": 4
+            }
+        ]
+    },
+    {
+        "uuid": "fd8c098f-f1d2-4fda-b356-210a7df0f712",
+        "entry_time": 56,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "hack_squat_1",
+                "priority_score": 41,
+                "est_time": 12,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "chest_fly_delt_1",
+                "priority_score": 45,
+                "est_time": 11,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "machine_leg_curl_1",
+                "priority_score": 22,
+                "est_time": 9,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "machine_row_1",
+                "priority_score": 29,
+                "est_time": 10,
+                "num_sets": 3
+            }
+        ]
+    },
+    {
+        "uuid": "session-018",
+        "entry_time": 58,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "hack_squat_2",
+                "priority_score": 29,
+                "est_time": 8,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "plate_loaded_shoulder_press",
+                "priority_score": 46,
+                "est_time": 9,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "machine_chest_press",
+                "priority_score": 12,
+                "est_time": 10,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "machine_leg_curl_1",
+                "priority_score": 39,
+                "est_time": 11,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "chest_fly_delt_2",
+                "priority_score": 20,
+                "est_time": 6,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 6,
+                "equipment_name": "seated_leg_press",
+                "priority_score": 25,
+                "est_time": 7,
+                "num_sets": 3
+            }
+        ]
+    },
+    {
+        "uuid": "session-010",
+        "entry_time": 62,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "linear_leg_press_2",
+                "priority_score": 35,
+                "est_time": 8,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "machine_incline_chest_press",
+                "priority_score": 18,
+                "est_time": 6,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "cable_lat_pulldown_1",
+                "priority_score": 22,
+                "est_time": 9,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "hack_squat_2",
+                "priority_score": 12,
+                "est_time": 10,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "tricep_extension_1",
+                "priority_score": 28,
+                "est_time": 11,
+                "num_sets": 4
+            }
+        ]
+    },
+    {
+        "uuid": "76e34c59-2780-416e-9dbc-97c29fbd1fb9",
+        "entry_time": 64,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "converging_shoulder_press",
+                "priority_score": 33,
+                "est_time": 10,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "machine_calf_press",
+                "priority_score": 36,
+                "est_time": 9,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "linear_leg_press_1",
+                "priority_score": 18,
+                "est_time": 12,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "preacher_curl",
+                "priority_score": 11,
+                "est_time": 11,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "back_extension",
+                "priority_score": 25,
+                "est_time": 10,
+                "num_sets": 3
+            }
+        ]
+    },
+    {
+        "uuid": "b3cb30f3-f673-407b-b783-85ca60e37fbd",
+        "entry_time": 64,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "chest_fly_delt_2",
+                "priority_score": 33,
+                "est_time": 10,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "linear_leg_press_1",
+                "priority_score": 29,
+                "est_time": 13,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "machine_calf_press",
+                "priority_score": 38,
+                "est_time": 8,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "preacher_curl",
+                "priority_score": 18,
+                "est_time": 11,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "machine_leg_extension_2",
+                "priority_score": 10,
+                "est_time": 10,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 6,
+                "equipment_name": "machine_leg_curl_1",
+                "priority_score": 39,
+                "est_time": 9,
+                "num_sets": 3
+            }
+        ]
+    },
+    {
+        "uuid": "session-037",
+        "entry_time": 66,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "hack_squat_2",
+                "priority_score": 34,
+                "est_time": 9,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "machine_leg_extension_2",
+                "priority_score": 27,
+                "est_time": 5,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "machine_calf_press",
+                "priority_score": 29,
+                "est_time": 8,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "plate_loaded_shoulder_press",
+                "priority_score": 19,
+                "est_time": 11,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "chest_fly_delt_1",
+                "priority_score": 26,
+                "est_time": 7,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 6,
+                "equipment_name": "machine_leg_curl_1",
+                "priority_score": 17,
+                "est_time": 6,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 7,
+                "equipment_name": "seated_lat_pulldown",
+                "priority_score": 45,
+                "est_time": 10,
+                "num_sets": 4
+            }
+        ]
+    },
+    {
+        "uuid": "f1bcd5d4-11aa-4eec-b118-148d406be191",
+        "entry_time": 69,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "machine_row_1",
+                "priority_score": 28,
+                "est_time": 9,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "chest_fly_delt_2",
+                "priority_score": 16,
+                "est_time": 10,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "hack_squat_1",
+                "priority_score": 36,
+                "est_time": 11,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "back_extension",
+                "priority_score": 22,
+                "est_time": 8,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "lateral_raise_2",
+                "priority_score": 35,
+                "est_time": 10,
+                "num_sets": 4
+            }
+        ]
+    },
+    {
+        "uuid": "session-034",
+        "entry_time": 70,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "machine_leg_curl_2",
+                "priority_score": 35,
+                "est_time": 8,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "lateral_raise_1",
+                "priority_score": 22,
+                "est_time": 6,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "plate_loaded_shoulder_press",
+                "priority_score": 13,
+                "est_time": 7,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "hip_abductor",
+                "priority_score": 17,
+                "est_time": 5,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "linear_leg_press_1",
+                "priority_score": 34,
+                "est_time": 10,
+                "num_sets": 4
+            }
+        ]
+    },
+    {
+        "uuid": "session-003",
+        "entry_time": 72,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "lateral_raise_1",
+                "priority_score": 40,
+                "est_time": 6,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "plate_loaded_calf_press",
+                "priority_score": 11,
+                "est_time": 9,
+                "num_sets": 5
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "hip_adductor",
+                "priority_score": 29,
+                "est_time": 8,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "preacher_curl",
+                "priority_score": 37,
+                "est_time": 7,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "machine_leg_curl_2",
+                "priority_score": 15,
+                "est_time": 10,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 6,
+                "equipment_name": "machine_incline_chest_press",
+                "priority_score": 19,
+                "est_time": 8,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 7,
+                "equipment_name": "plate_loaded_shoulder_press",
+                "priority_score": 22,
+                "est_time": 11,
+                "num_sets": 4
+            }
+        ]
+    },
+    {
+        "uuid": "eb254314-ff71-4f48-9f2a-6de0c8dfb5f4",
+        "entry_time": 73,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "seated_lat_pulldown",
+                "priority_score": 30,
+                "est_time": 11,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "lateral_raise_2",
+                "priority_score": 37,
+                "est_time": 13,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "machine_leg_extension_2",
+                "priority_score": 22,
+                "est_time": 9,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "linear_leg_press_2",
+                "priority_score": 16,
+                "est_time": 12,
+                "num_sets": 4
+            }
+        ]
+    },
+    {
+        "uuid": "session-045",
+        "entry_time": 76,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "lateral_raise_1",
+                "priority_score": 44,
+                "est_time": 9,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "machine_leg_curl_1",
+                "priority_score": 15,
+                "est_time": 6,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "hack_squat_1",
+                "priority_score": 25,
+                "est_time": 11,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "plate_loaded_calf_press",
+                "priority_score": 34,
+                "est_time": 8,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "hip_adductor",
+                "priority_score": 29,
+                "est_time": 10,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 6,
+                "equipment_name": "machine_leg_extension_2",
+                "priority_score": 38,
+                "est_time": 7,
+                "num_sets": 4
+            }
+        ]
+    },
+    {
+        "uuid": "34e18425-cf8e-43bc-b5f4-6b7546275ef5",
+        "entry_time": 79,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "plate_loaded_shoulder_press",
+                "priority_score": 22,
+                "est_time": 10,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "machine_chest_press",
+                "priority_score": 32,
+                "est_time": 11,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "machine_row_2",
+                "priority_score": 19,
+                "est_time": 9,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "ab_crunch",
+                "priority_score": 41,
+                "est_time": 8,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "cable_lat_pulldown_1",
+                "priority_score": 35,
+                "est_time": 10,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 6,
+                "equipment_name": "machine_incline_chest_press",
+                "priority_score": 29,
+                "est_time": 11,
+                "num_sets": 4
+            }
+        ]
+    },
+    {
+        "uuid": "8df820cf-48b2-4a05-9030-bc89e868f640",
+        "entry_time": 81,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "chest_fly_delt_2",
+                "priority_score": 48,
+                "est_time": 10,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "machine_leg_curl_2",
+                "priority_score": 36,
+                "est_time": 9,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "machine_leg_extension_1",
+                "priority_score": 14,
+                "est_time": 11,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "lateral_raise_1",
+                "priority_score": 50,
+                "est_time": 13,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "machine_row_1",
+                "priority_score": 24,
+                "est_time": 12,
+                "num_sets": 3
+            }
+        ]
+    },
+    {
+        "uuid": "session-030",
+        "entry_time": 82,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "linear_leg_press_2",
+                "priority_score": 29,
+                "est_time": 10,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "tricep_pushdown",
+                "priority_score": 15,
+                "est_time": 6,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "preacher_curl",
+                "priority_score": 44,
+                "est_time": 9,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "cable_lat_pulldown_2",
+                "priority_score": 14,
+                "est_time": 8,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "hip_adductor",
+                "priority_score": 39,
+                "est_time": 7,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 6,
+                "equipment_name": "back_extension",
+                "priority_score": 25,
+                "est_time": 11,
+                "num_sets": 4
+            }
+        ]
+    },
+    {
+        "uuid": "23e384bc-b6cb-403b-bed2-e3e7cfaf1e61",
+        "entry_time": 83,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "machine_row_2",
+                "priority_score": 16,
+                "est_time": 12,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "tricep_extension_1",
+                "priority_score": 42,
+                "est_time": 9,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "linear_leg_press_2",
+                "priority_score": 19,
+                "est_time": 8,
+                "num_sets": 3
+            }
+        ]
+    },
+    {
+        "uuid": "session-047",
+        "entry_time": 84,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "machine_shoulder_press",
+                "priority_score": 30,
+                "est_time": 6,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "glute_kickback",
+                "priority_score": 21,
+                "est_time": 9,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "tricep_extension_2",
+                "priority_score": 29,
+                "est_time": 11,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "seated_leg_press",
+                "priority_score": 34,
+                "est_time": 8,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "tricep_pushdown",
+                "priority_score": 22,
+                "est_time": 7,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 6,
+                "equipment_name": "cable_lat_pulldown_1",
+                "priority_score": 40,
+                "est_time": 10,
+                "num_sets": 4
+            }
+        ]
+    },
+    {
+        "uuid": "d7d39caa-0403-4f4c-aafe-bb213a25527d",
+        "entry_time": 84,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "machine_row_1",
+                "priority_score": 11,
+                "est_time": 12,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "machine_chest_press",
+                "priority_score": 40,
+                "est_time": 8,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "prone_leg_curl",
+                "priority_score": 13,
+                "est_time": 10,
+                "num_sets": 4
+            }
+        ]
+    },
+    {
+        "uuid": "1b2548ec-28b8-446c-a14e-f33ce16e8034",
+        "entry_time": 85,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "hack_squat_1",
+                "priority_score": 35,
+                "est_time": 12,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "seated_lat_pulldown",
+                "priority_score": 24,
+                "est_time": 11,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "chest_fly_delt_2",
+                "priority_score": 29,
+                "est_time": 10,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "hip_abductor",
+                "priority_score": 31,
+                "est_time": 8,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "machine_row_1",
+                "priority_score": 9,
+                "est_time": 7,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 6,
+                "equipment_name": "machine_leg_curl_1",
+                "priority_score": 37,
+                "est_time": 9,
+                "num_sets": 4
+            }
+        ]
+    },
+    {
+        "uuid": "session-021",
+        "entry_time": 86,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "hack_squat_1",
+                "priority_score": 36,
+                "est_time": 9,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "machine_leg_extension_2",
+                "priority_score": 28,
+                "est_time": 10,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "hip_adductor",
+                "priority_score": 19,
+                "est_time": 8,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "tricep_pushdown",
+                "priority_score": 48,
+                "est_time": 6,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "lateral_raise_1",
+                "priority_score": 22,
+                "est_time": 7,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 6,
+                "equipment_name": "ab_crunch",
+                "priority_score": 15,
+                "est_time": 5,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 7,
+                "equipment_name": "glute_kickback",
+                "priority_score": 37,
+                "est_time": 12,
+                "num_sets": 3
+            }
+        ]
+    },
+    {
+        "uuid": "f9502029-3acf-449a-b007-bd45f0a78f3d",
+        "entry_time": 87,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "plate_loaded_shoulder_press",
+                "priority_score": 16,
+                "est_time": 12,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "back_extension",
+                "priority_score": 39,
+                "est_time": 8,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "seated_lat_pulldown",
+                "priority_score": 21,
+                "est_time": 11,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "machine_leg_extension_2",
+                "priority_score": 22,
+                "est_time": 10,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "linear_leg_press_2",
+                "priority_score": 37,
+                "est_time": 11,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 6,
+                "equipment_name": "machine_calf_press",
+                "priority_score": 46,
+                "est_time": 13,
+                "num_sets": 4
+            }
+        ]
+    },
+    {
+        "uuid": "session-048",
+        "entry_time": 88,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "machine_incline_chest_press",
+                "priority_score": 18,
+                "est_time": 5,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "back_extension",
+                "priority_score": 43,
+                "est_time": 9,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "lateral_raise_2",
+                "priority_score": 30,
+                "est_time": 10,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "cable_lat_pulldown_2",
+                "priority_score": 14,
+                "est_time": 8,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "machine_leg_curl_1",
+                "priority_score": 32,
+                "est_time": 7,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 6,
+                "equipment_name": "ab_crunch",
+                "priority_score": 12,
+                "est_time": 10,
+                "num_sets": 3
+            }
+        ]
+    },
+    {
+        "uuid": "328cc146-935c-4aec-b8e2-ebdb3d84116f",
+        "entry_time": 90,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "lateral_raise_2",
+                "priority_score": 16,
+                "est_time": 10,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "machine_leg_curl_1",
+                "priority_score": 18,
+                "est_time": 9,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "machine_shoulder_press",
+                "priority_score": 22,
+                "est_time": 9,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "hip_abductor",
+                "priority_score": 36,
+                "est_time": 8,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "machine_row_1",
+                "priority_score": 19,
+                "est_time": 11,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 6,
+                "equipment_name": "linear_leg_press_1",
+                "priority_score": 44,
+                "est_time": 10,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 7,
+                "equipment_name": "machine_chest_press",
+                "priority_score": 20,
+                "est_time": 12,
+                "num_sets": 3
+            }
+        ]
+    },
+    {
+        "uuid": "session-019",
+        "entry_time": 92,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "machine_leg_curl_2",
+                "priority_score": 31,
+                "est_time": 10,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "hip_abductor",
+                "priority_score": 15,
+                "est_time": 8,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "ab_crunch",
+                "priority_score": 44,
+                "est_time": 8,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "lateral_raise_2",
+                "priority_score": 29,
+                "est_time": 7,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "machine_leg_extension_1",
+                "priority_score": 14,
+                "est_time": 6,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 6,
+                "equipment_name": "seated_lat_pulldown",
+                "priority_score": 34,
+                "est_time": 5,
+                "num_sets": 4
+            }
+        ]
+    },
+    {
+        "uuid": "session-026",
+        "entry_time": 94,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "linear_leg_press_2",
+                "priority_score": 25,
+                "est_time": 11,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "tricep_extension_1",
+                "priority_score": 34,
+                "est_time": 7,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "machine_leg_extension_2",
+                "priority_score": 16,
+                "est_time": 9,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "glute_kickback",
+                "priority_score": 42,
+                "est_time": 8,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "machine_calf_press",
+                "priority_score": 12,
+                "est_time": 5,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 6,
+                "equipment_name": "machine_row_2",
+                "priority_score": 30,
+                "est_time": 10,
+                "num_sets": 4
+            }
+        ]
+    },
+    {
+        "uuid": "session-046",
+        "entry_time": 96,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "linear_leg_press_2",
+                "priority_score": 28,
+                "est_time": 11,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "preacher_curl",
+                "priority_score": 19,
+                "est_time": 8,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "seated_lat_pulldown",
+                "priority_score": 22,
+                "est_time": 7,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "hack_squat_2",
+                "priority_score": 33,
+                "est_time": 10,
+                "num_sets": 5
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "machine_row_1",
+                "priority_score": 15,
+                "est_time": 5,
+                "num_sets": 4
+            }
+        ]
+    },
+    {
+        "uuid": "session-032",
+        "entry_time": 100,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "seated_lat_pulldown",
+                "priority_score": 38,
+                "est_time": 10,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "machine_incline_chest_press",
+                "priority_score": 14,
+                "est_time": 11,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "linear_leg_press_2",
+                "priority_score": 27,
+                "est_time": 9,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "tricep_extension_1",
+                "priority_score": 20,
+                "est_time": 8,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "machine_leg_extension_2",
+                "priority_score": 45,
+                "est_time": 7,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 6,
+                "equipment_name": "cable_lat_pulldown_1",
+                "priority_score": 19,
+                "est_time": 6,
+                "num_sets": 4
+            }
+        ]
+    },
+    {
+        "uuid": "eb23bfc2-faf0-4de3-a064-b874b813bcf3",
+        "entry_time": 101,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "machine_leg_curl_2",
+                "priority_score": 16,
+                "est_time": 10,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "linear_leg_press_2",
+                "priority_score": 36,
+                "est_time": 12,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "machine_incline_chest_press",
+                "priority_score": 24,
+                "est_time": 9,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "machine_leg_extension_2",
+                "priority_score": 31,
+                "est_time": 10,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "machine_row_1",
+                "priority_score": 47,
+                "est_time": 11,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 6,
+                "equipment_name": "ab_crunch",
+                "priority_score": 26,
+                "est_time": 9,
+                "num_sets": 3
+            }
+        ]
+    },
+    {
+        "uuid": "session-006",
+        "entry_time": 102,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "lateral_raise_2",
+                "priority_score": 19,
+                "est_time": 5,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "linear_leg_press_2",
+                "priority_score": 33,
+                "est_time": 10,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "chest_fly_delt_1",
+                "priority_score": 25,
+                "est_time": 9,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "cable_lat_pulldown_2",
+                "priority_score": 27,
+                "est_time": 8,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "back_extension",
+                "priority_score": 48,
+                "est_time": 7,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 6,
+                "equipment_name": "machine_leg_curl_2",
+                "priority_score": 21,
+                "est_time": 11,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 7,
+                "equipment_name": "preacher_curl",
+                "priority_score": 39,
+                "est_time": 6,
+                "num_sets": 4
+            }
+        ]
+    },
+    {
+        "uuid": "session-040",
+        "entry_time": 104,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "glute_kickback",
+                "priority_score": 31,
+                "est_time": 7,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "plate_loaded_calf_press",
+                "priority_score": 40,
+                "est_time": 9,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "machine_leg_curl_1",
+                "priority_score": 22,
+                "est_time": 8,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "linear_leg_press_2",
+                "priority_score": 24,
+                "est_time": 10,
+                "num_sets": 4
+            }
+        ]
+    },
+    {
+        "uuid": "session-042",
+        "entry_time": 106,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "back_extension",
+                "priority_score": 11,
+                "est_time": 9,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "machine_row_1",
+                "priority_score": 39,
+                "est_time": 8,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "plate_loaded_shoulder_press",
+                "priority_score": 28,
+                "est_time": 10,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "machine_chest_press",
+                "priority_score": 20,
+                "est_time": 7,
+                "num_sets": 4
+            }
+        ]
+    },
+    {
+        "uuid": "b0e8b6e1-c816-4f84-a605-c1bafae41e20",
+        "entry_time": 111,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "hack_squat_2",
+                "priority_score": 18,
+                "est_time": 12,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "glute_kickback",
+                "priority_score": 10,
+                "est_time": 10,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "machine_leg_curl_1",
+                "priority_score": 24,
+                "est_time": 9,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "tricep_extension_1",
+                "priority_score": 20,
+                "est_time": 8,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "machine_calf_press",
+                "priority_score": 47,
+                "est_time": 10,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 6,
+                "equipment_name": "back_extension",
+                "priority_score": 39,
+                "est_time": 11,
+                "num_sets": 3
+            }
+        ]
+    },
+    {
+        "uuid": "session-002",
+        "entry_time": 112,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "hack_squat_1",
+                "priority_score": 45,
+                "est_time": 9,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "machine_calf_press",
+                "priority_score": 18,
+                "est_time": 11,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "back_extension",
+                "priority_score": 27,
+                "est_time": 5,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "machine_row_2",
+                "priority_score": 35,
+                "est_time": 10,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "cable_lat_pulldown_1",
+                "priority_score": 12,
+                "est_time": 8,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 6,
+                "equipment_name": "tricep_pushdown",
+                "priority_score": 23,
+                "est_time": 7,
+                "num_sets": 3
+            }
+        ]
+    },
+    {
+        "uuid": "session-049",
+        "entry_time": 112,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "hack_squat_1",
+                "priority_score": 25,
+                "est_time": 7,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "machine_leg_extension_1",
+                "priority_score": 35,
+                "est_time": 6,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "machine_row_2",
+                "priority_score": 13,
+                "est_time": 8,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "machine_calf_press",
+                "priority_score": 37,
+                "est_time": 5,
+                "num_sets": 4
+            }
+        ]
+    },
+    {
+        "uuid": "2103b917-80b8-407d-bc86-fb571c3c6e37",
+        "entry_time": 113,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "lateral_raise_1",
+                "priority_score": 31,
+                "est_time": 10,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "seated_leg_press",
+                "priority_score": 14,
+                "est_time": 11,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "back_extension",
+                "priority_score": 16,
+                "est_time": 12,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "plate_loaded_shoulder_press",
+                "priority_score": 44,
+                "est_time": 9,
+                "num_sets": 3
+            }
+        ]
+    },
+    {
+        "uuid": "2d40b1b7-bac3-4e1e-b10c-926305e0de3f",
+        "entry_time": 115,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "seated_leg_press",
+                "priority_score": 18,
+                "est_time": 13,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "machine_row_1",
+                "priority_score": 31,
+                "est_time": 10,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "seated_lat_pulldown",
+                "priority_score": 48,
+                "est_time": 12,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "machine_leg_curl_1",
+                "priority_score": 26,
+                "est_time": 9,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "tricep_extension_1",
+                "priority_score": 14,
+                "est_time": 11,
+                "num_sets": 3
+            }
+        ]
+    },
+    {
+        "uuid": "97ae6255-5055-4d7a-8baf-ebeb86f082e4",
+        "entry_time": 115,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "cable_lat_pulldown_1",
+                "priority_score": 28,
+                "est_time": 11,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "prone_leg_curl",
+                "priority_score": 30,
+                "est_time": 12,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "machine_leg_extension_1",
+                "priority_score": 31,
+                "est_time": 9,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "seated_lat_pulldown",
+                "priority_score": 36,
+                "est_time": 8,
+                "num_sets": 3
+            }
+        ]
+    },
+    {
+        "uuid": "session-044",
+        "entry_time": 120,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "tricep_pushdown",
+                "priority_score": 36,
+                "est_time": 7,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "hack_squat_2",
+                "priority_score": 26,
+                "est_time": 8,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "ab_crunch",
+                "priority_score": 30,
+                "est_time": 9,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "machine_calf_press",
+                "priority_score": 21,
+                "est_time": 11,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "glute_kickback",
+                "priority_score": 12,
+                "est_time": 10,
+                "num_sets": 4
+            }
+        ]
+    },
+    {
+        "uuid": "session-024",
+        "entry_time": 124,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "hack_squat_2",
+                "priority_score": 24,
+                "est_time": 11,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "machine_leg_extension_1",
+                "priority_score": 18,
+                "est_time": 8,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "seated_lat_pulldown",
+                "priority_score": 43,
+                "est_time": 5,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "preacher_curl",
+                "priority_score": 32,
+                "est_time": 7,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "ab_crunch",
+                "priority_score": 11,
+                "est_time": 9,
+                "num_sets": 4
+            }
+        ]
+    },
+    {
+        "uuid": "774b541d-20fe-4567-a2b8-de9a04b3e13e",
+        "entry_time": 125,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "seated_lat_pulldown",
+                "priority_score": 32,
+                "est_time": 9,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "machine_leg_curl_2",
+                "priority_score": 16,
+                "est_time": 8,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "machine_chest_press",
+                "priority_score": 34,
+                "est_time": 10,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "lateral_raise_1",
+                "priority_score": 38,
+                "est_time": 11,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "hack_squat_2",
+                "priority_score": 10,
+                "est_time": 12,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 6,
+                "equipment_name": "chest_fly_delt_1",
+                "priority_score": 45,
+                "est_time": 11,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 7,
+                "equipment_name": "ab_crunch",
+                "priority_score": 36,
+                "est_time": 7,
+                "num_sets": 3
+            }
+        ]
+    },
+    {
+        "uuid": "191d5e3b-1153-4ff1-92c4-2633701f8e00",
+        "entry_time": 125,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "machine_leg_extension_1",
+                "priority_score": 10,
+                "est_time": 13,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "machine_leg_curl_1",
+                "priority_score": 28,
+                "est_time": 10,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "machine_row_2",
+                "priority_score": 49,
+                "est_time": 11,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "machine_leg_extension_2",
+                "priority_score": 16,
+                "est_time": 9,
+                "num_sets": 3
+            }
+        ]
+    },
+    {
+        "uuid": "f3f5e7de-9bbc-4a7d-aec7-6ef21a819230",
+        "entry_time": 126,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "machine_shoulder_press",
+                "priority_score": 17,
+                "est_time": 10,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "glute_kickback",
+                "priority_score": 31,
+                "est_time": 8,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "linear_leg_press_2",
+                "priority_score": 12,
+                "est_time": 10,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "hack_squat_1",
+                "priority_score": 33,
+                "est_time": 13,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "tricep_extension_1",
+                "priority_score": 38,
+                "est_time": 9,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 6,
+                "equipment_name": "ab_crunch",
+                "priority_score": 48,
+                "est_time": 13,
+                "num_sets": 4
+            }
+        ]
+    },
+    {
+        "uuid": "1c7b4f0a-47e6-4bc9-b44c-a9661958fc03",
+        "entry_time": 126,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "glute_kickback",
+                "priority_score": 34,
+                "est_time": 11,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "seated_leg_press",
+                "priority_score": 20,
+                "est_time": 8,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "hack_squat_2",
+                "priority_score": 43,
+                "est_time": 12,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "machine_incline_chest_press",
+                "priority_score": 14,
+                "est_time": 10,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "linear_leg_press_1",
+                "priority_score": 32,
+                "est_time": 9,
+                "num_sets": 4
+            }
+        ]
+    },
+    {
+        "uuid": "66863649-0314-44a0-9144-2c64cebc691e",
+        "entry_time": 129,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "machine_leg_extension_1",
+                "priority_score": 14,
+                "est_time": 9,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "machine_leg_curl_1",
+                "priority_score": 45,
+                "est_time": 8,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "linear_leg_press_1",
+                "priority_score": 37,
+                "est_time": 10,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "machine_shoulder_press",
+                "priority_score": 29,
+                "est_time": 11,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "glute_kickback",
+                "priority_score": 16,
+                "est_time": 12,
+                "num_sets": 3
+            }
+        ]
+    },
+    {
+        "uuid": "session-005",
+        "entry_time": 130,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "glute_kickback",
+                "priority_score": 16,
+                "est_time": 8,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "machine_shoulder_press",
+                "priority_score": 42,
+                "est_time": 7,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "chest_fly_delt_2",
+                "priority_score": 12,
+                "est_time": 9,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "hip_abductor",
+                "priority_score": 28,
+                "est_time": 10,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "machine_leg_extension_2",
+                "priority_score": 20,
+                "est_time": 11,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 6,
+                "equipment_name": "hack_squat_2",
+                "priority_score": 35,
+                "est_time": 6,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 7,
+                "equipment_name": "tricep_extension_2",
+                "priority_score": 24,
+                "est_time": 7,
+                "num_sets": 3
+            }
+        ]
+    },
+    {
+        "uuid": "477c68d5-6be9-48af-a192-e62440809531",
+        "entry_time": 130,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "hack_squat_1",
+                "priority_score": 27,
+                "est_time": 12,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "machine_incline_chest_press",
+                "priority_score": 14,
+                "est_time": 11,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "prone_leg_curl",
+                "priority_score": 37,
+                "est_time": 10,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "machine_leg_curl_2",
+                "priority_score": 24,
+                "est_time": 9,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "hip_adductor",
+                "priority_score": 12,
+                "est_time": 8,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 6,
+                "equipment_name": "machine_row_2",
+                "priority_score": 11,
+                "est_time": 10,
+                "num_sets": 3
+            }
+        ]
+    },
+    {
+        "uuid": "72454b1e-24b2-4abd-ba6c-61ebd3133a07",
+        "entry_time": 132,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "back_extension",
+                "priority_score": 47,
+                "est_time": 10,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "machine_leg_curl_2",
+                "priority_score": 43,
+                "est_time": 9,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "machine_leg_extension_1",
+                "priority_score": 23,
+                "est_time": 11,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "plate_loaded_shoulder_press",
+                "priority_score": 41,
+                "est_time": 12,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "glute_kickback",
+                "priority_score": 10,
+                "est_time": 10,
+                "num_sets": 4
+            }
+        ]
+    },
+    {
+        "uuid": "session-027",
+        "entry_time": 134,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "cable_lat_pulldown_1",
+                "priority_score": 23,
+                "est_time": 6,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "ab_crunch",
+                "priority_score": 19,
+                "est_time": 8,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "hip_adductor",
+                "priority_score": 29,
+                "est_time": 9,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "tricep_extension_2",
+                "priority_score": 15,
+                "est_time": 11,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "back_extension",
+                "priority_score": 41,
+                "est_time": 10,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 6,
+                "equipment_name": "machine_shoulder_press",
+                "priority_score": 34,
+                "est_time": 7,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 7,
+                "equipment_name": "hack_squat_1",
+                "priority_score": 24,
+                "est_time": 5,
+                "num_sets": 4
+            }
+        ]
+    },
+    {
+        "uuid": "9a21ce78-f234-4cf6-be5b-8b5e1b876130",
+        "entry_time": 134,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "machine_row_2",
+                "priority_score": 20,
+                "est_time": 9,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "linear_leg_press_2",
+                "priority_score": 18,
+                "est_time": 12,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "chest_fly_delt_2",
+                "priority_score": 28,
+                "est_time": 10,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "machine_chest_press",
+                "priority_score": 36,
+                "est_time": 11,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "machine_incline_chest_press",
+                "priority_score": 27,
+                "est_time": 10,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 6,
+                "equipment_name": "tricep_pushdown",
+                "priority_score": 38,
+                "est_time": 8,
+                "num_sets": 4
+            }
+        ]
+    },
+    {
+        "uuid": "c8c3f247-df45-4993-800e-cb4e6c1f4fb8",
+        "entry_time": 134,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "machine_row_1",
+                "priority_score": 35,
+                "est_time": 9,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "seated_lat_pulldown",
+                "priority_score": 17,
+                "est_time": 11,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "machine_shoulder_press",
+                "priority_score": 18,
+                "est_time": 10,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "linear_leg_press_1",
+                "priority_score": 48,
+                "est_time": 10,
+                "num_sets": 3
+            }
+        ]
+    },
+    {
+        "uuid": "717050ee-1c90-4bba-90c2-769630c89121",
+        "entry_time": 134,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "hack_squat_2",
+                "priority_score": 45,
+                "est_time": 13,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "cable_lat_pulldown_2",
+                "priority_score": 25,
+                "est_time": 11,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "machine_incline_chest_press",
+                "priority_score": 28,
+                "est_time": 9,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "machine_row_2",
+                "priority_score": 18,
+                "est_time": 9,
+                "num_sets": 3
+            }
+        ]
+    },
+    {
+        "uuid": "aca01491-bbf6-4a6e-8b62-4382c086d0c3",
+        "entry_time": 135,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "hip_abductor",
+                "priority_score": 14,
+                "est_time": 12,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "linear_leg_press_1",
+                "priority_score": 17,
+                "est_time": 11,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "machine_chest_press",
+                "priority_score": 29,
+                "est_time": 8,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "machine_leg_curl_1",
+                "priority_score": 31,
+                "est_time": 13,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "back_extension",
+                "priority_score": 42,
+                "est_time": 10,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 6,
+                "equipment_name": "machine_leg_curl_2",
+                "priority_score": 20,
+                "est_time": 9,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 7,
+                "equipment_name": "glute_kickback",
+                "priority_score": 46,
+                "est_time": 10,
+                "num_sets": 3
+            }
+        ]
+    },
+    {
+        "uuid": "4da1e268-8943-4898-9317-0005ecf7f2cd",
+        "entry_time": 136,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "machine_shoulder_press",
+                "priority_score": 12,
+                "est_time": 13,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "machine_leg_curl_2",
+                "priority_score": 38,
+                "est_time": 11,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "lateral_raise_2",
+                "priority_score": 29,
+                "est_time": 9,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "prone_leg_curl",
+                "priority_score": 33,
+                "est_time": 9,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "machine_row_2",
+                "priority_score": 40,
+                "est_time": 10,
+                "num_sets": 4
+            }
+        ]
+    },
+    {
+        "uuid": "session-017",
+        "entry_time": 138,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "cable_lat_pulldown_1",
+                "priority_score": 21,
+                "est_time": 5,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "glute_kickback",
+                "priority_score": 26,
+                "est_time": 9,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "tricep_extension_1",
+                "priority_score": 16,
+                "est_time": 11,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "machine_incline_chest_press",
+                "priority_score": 38,
+                "est_time": 7,
+                "num_sets": 4
+            }
+        ]
+    },
+    {
+        "uuid": "8ab70a96-44ac-48c3-9836-040ed27bad18",
+        "entry_time": 139,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "hack_squat_1",
+                "priority_score": 12,
+                "est_time": 9,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "cable_lat_pulldown_2",
+                "priority_score": 19,
+                "est_time": 11,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "machine_leg_curl_1",
+                "priority_score": 22,
+                "est_time": 10,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "machine_row_2",
+                "priority_score": 33,
+                "est_time": 13,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "glute_kickback",
+                "priority_score": 35,
+                "est_time": 8,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 6,
+                "equipment_name": "prone_leg_curl",
+                "priority_score": 46,
+                "est_time": 10,
+                "num_sets": 4
+            }
+        ]
+    },
+    {
+        "uuid": "session-036",
+        "entry_time": 140,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "preacher_curl",
+                "priority_score": 29,
+                "est_time": 8,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "machine_row_1",
+                "priority_score": 16,
+                "est_time": 10,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "linear_leg_press_2",
+                "priority_score": 23,
+                "est_time": 9,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "hip_adductor",
+                "priority_score": 38,
+                "est_time": 8,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "machine_chest_press",
+                "priority_score": 32,
+                "est_time": 6,
+                "num_sets": 4
+            }
+        ]
+    },
+    {
+        "uuid": "332eb406-a90d-48d0-8c67-f9740eb3ed50",
+        "entry_time": 140,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "machine_chest_press",
+                "priority_score": 24,
+                "est_time": 11,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "prone_leg_curl",
+                "priority_score": 12,
+                "est_time": 10,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "machine_leg_curl_1",
+                "priority_score": 35,
+                "est_time": 9,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "hack_squat_2",
+                "priority_score": 25,
+                "est_time": 12,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "linear_leg_press_1",
+                "priority_score": 21,
+                "est_time": 10,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 6,
+                "equipment_name": "machine_row_1",
+                "priority_score": 22,
+                "est_time": 11,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 7,
+                "equipment_name": "tricep_extension_1",
+                "priority_score": 11,
+                "est_time": 13,
+                "num_sets": 4
+            }
+        ]
+    },
+    {
+        "uuid": "46d5238d-b03d-422e-883b-80d4fbb2531f",
+        "entry_time": 140,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "machine_leg_extension_1",
+                "priority_score": 20,
+                "est_time": 12,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "linear_leg_press_2",
+                "priority_score": 19,
+                "est_time": 11,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "machine_incline_chest_press",
+                "priority_score": 18,
+                "est_time": 10,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "machine_leg_curl_1",
+                "priority_score": 35,
+                "est_time": 9,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "machine_row_2",
+                "priority_score": 23,
+                "est_time": 10,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 6,
+                "equipment_name": "hack_squat_2",
+                "priority_score": 50,
+                "est_time": 13,
+                "num_sets": 4
+            }
+        ]
+    },
+    {
+        "uuid": "session-004",
+        "entry_time": 144,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "machine_leg_curl_1",
+                "priority_score": 38,
+                "est_time": 7,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "linear_leg_press_1",
+                "priority_score": 14,
+                "est_time": 12,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "machine_row_1",
+                "priority_score": 50,
+                "est_time": 10,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "seated_lat_pulldown",
+                "priority_score": 27,
+                "est_time": 6,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "tricep_extension_1",
+                "priority_score": 18,
+                "est_time": 9,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 6,
+                "equipment_name": "ab_crunch",
+                "priority_score": 30,
+                "est_time": 7,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 7,
+                "equipment_name": "chest_fly_delt_1",
+                "priority_score": 25,
+                "est_time": 11,
+                "num_sets": 3
+            }
+        ]
+    },
+    {
+        "uuid": "9a084b24-4f77-4e50-916c-655294bb90db",
+        "entry_time": 144,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "machine_row_2",
+                "priority_score": 40,
+                "est_time": 10,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "back_extension",
+                "priority_score": 35,
+                "est_time": 8,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "linear_leg_press_1",
+                "priority_score": 30,
+                "est_time": 13,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "seated_lat_pulldown",
+                "priority_score": 25,
+                "est_time": 11,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "machine_shoulder_press",
+                "priority_score": 22,
+                "est_time": 10,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 6,
+                "equipment_name": "machine_leg_extension_1",
+                "priority_score": 27,
+                "est_time": 9,
+                "num_sets": 3
+            }
+        ]
+    },
+    {
+        "uuid": "0bb023bc-4156-490d-b809-f16d5d908e83",
+        "entry_time": 145,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "hack_squat_2",
+                "priority_score": 12,
+                "est_time": 13,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "machine_leg_extension_2",
+                "priority_score": 40,
+                "est_time": 9,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "machine_row_1",
+                "priority_score": 14,
+                "est_time": 10,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "glute_kickback",
+                "priority_score": 17,
+                "est_time": 10,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "machine_shoulder_press",
+                "priority_score": 23,
+                "est_time": 11,
+                "num_sets": 3
+            }
+        ]
+    },
+    {
+        "uuid": "session-039",
+        "entry_time": 146,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "machine_shoulder_press",
+                "priority_score": 36,
+                "est_time": 8,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "machine_leg_curl_2",
+                "priority_score": 22,
+                "est_time": 11,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "hack_squat_1",
+                "priority_score": 18,
+                "est_time": 9,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "glute_kickback",
+                "priority_score": 19,
+                "est_time": 6,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "machine_row_1",
+                "priority_score": 30,
+                "est_time": 7,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 6,
+                "equipment_name": "seated_leg_press",
+                "priority_score": 25,
+                "est_time": 10,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 7,
+                "equipment_name": "back_extension",
+                "priority_score": 23,
+                "est_time": 5,
+                "num_sets": 4
+            }
+        ]
+    },
+    {
+        "uuid": "session-014",
+        "entry_time": 148,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "hip_abductor",
+                "priority_score": 21,
+                "est_time": 7,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "machine_row_1",
+                "priority_score": 19,
+                "est_time": 10,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "chest_fly_delt_1",
+                "priority_score": 39,
+                "est_time": 8,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "tricep_extension_2",
+                "priority_score": 17,
+                "est_time": 6,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "plate_loaded_calf_press",
+                "priority_score": 31,
+                "est_time": 12,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 6,
+                "equipment_name": "ab_crunch",
+                "priority_score": 43,
+                "est_time": 9,
+                "num_sets": 3
+            }
+        ]
+    },
+    {
+        "uuid": "9b8eb6cf-c239-4c87-a1bb-afe7b0fa5f1d",
+        "entry_time": 155,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "linear_leg_press_1",
+                "priority_score": 37,
+                "est_time": 12,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "preacher_curl",
+                "priority_score": 30,
+                "est_time": 9,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "machine_leg_extension_2",
+                "priority_score": 44,
+                "est_time": 10,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "machine_chest_press",
+                "priority_score": 18,
+                "est_time": 11,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "prone_leg_curl",
+                "priority_score": 27,
+                "est_time": 9,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 6,
+                "equipment_name": "machine_row_1",
+                "priority_score": 28,
+                "est_time": 13,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 7,
+                "equipment_name": "machine_row_2",
+                "priority_score": 29,
+                "est_time": 10,
+                "num_sets": 3
+            }
+        ]
+    },
+    {
+        "uuid": "2fa60888-d009-4932-a7d6-f27a6f3ad162",
+        "entry_time": 159,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "glute_kickback",
+                "priority_score": 22,
+                "est_time": 11,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "linear_leg_press_1",
+                "priority_score": 28,
+                "est_time": 13,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "machine_leg_curl_2",
+                "priority_score": 17,
+                "est_time": 10,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "machine_row_1",
+                "priority_score": 24,
+                "est_time": 8,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "hack_squat_2",
+                "priority_score": 43,
+                "est_time": 12,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 6,
+                "equipment_name": "machine_shoulder_press",
+                "priority_score": 19,
+                "est_time": 9,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 7,
+                "equipment_name": "tricep_extension_1",
+                "priority_score": 40,
+                "est_time": 9,
+                "num_sets": 3
+            }
+        ]
+    },
+    {
+        "uuid": "session-038",
+        "entry_time": 160,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "hip_abductor",
+                "priority_score": 24,
+                "est_time": 10,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "ab_crunch",
+                "priority_score": 41,
+                "est_time": 7,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "linear_leg_press_1",
+                "priority_score": 27,
+                "est_time": 6,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "machine_row_2",
+                "priority_score": 33,
+                "est_time": 12,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "tricep_extension_1",
+                "priority_score": 29,
+                "est_time": 5,
+                "num_sets": 4
+            }
+        ]
+    },
+    {
+        "uuid": "de764eef-1535-4613-900d-f507eee4ab58",
+        "entry_time": 160,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "machine_leg_extension_1",
+                "priority_score": 24,
+                "est_time": 11,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "machine_leg_extension_2",
+                "priority_score": 9,
+                "est_time": 12,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "machine_row_2",
+                "priority_score": 22,
+                "est_time": 13,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "plate_loaded_shoulder_press",
+                "priority_score": 19,
+                "est_time": 9,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "prone_leg_curl",
+                "priority_score": 36,
+                "est_time": 8,
+                "num_sets": 4
+            }
+        ]
+    },
+    {
+        "uuid": "d1fb1e48-8adc-43f1-bb48-2c48635ad382",
+        "entry_time": 161,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "machine_leg_curl_2",
+                "priority_score": 19,
+                "est_time": 13,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "linear_leg_press_2",
+                "priority_score": 32,
+                "est_time": 11,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "machine_row_1",
+                "priority_score": 21,
+                "est_time": 9,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "seated_lat_pulldown",
+                "priority_score": 39,
+                "est_time": 9,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "hack_squat_2",
+                "priority_score": 22,
+                "est_time": 12,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 6,
+                "equipment_name": "machine_shoulder_press",
+                "priority_score": 37,
+                "est_time": 10,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 7,
+                "equipment_name": "prone_leg_curl",
+                "priority_score": 24,
+                "est_time": 8,
+                "num_sets": 3
+            }
+        ]
+    },
+    {
+        "uuid": "session-025",
+        "entry_time": 166,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "plate_loaded_calf_press",
+                "priority_score": 19,
+                "est_time": 6,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "machine_leg_curl_1",
+                "priority_score": 14,
+                "est_time": 5,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "seated_leg_press",
+                "priority_score": 37,
+                "est_time": 12,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "machine_row_1",
+                "priority_score": 21,
+                "est_time": 9,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "lateral_raise_2",
+                "priority_score": 27,
+                "est_time": 8,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 6,
+                "equipment_name": "machine_chest_press",
+                "priority_score": 15,
+                "est_time": 10,
+                "num_sets": 3
+            }
+        ]
+    },
+    {
+        "uuid": "session-031",
+        "entry_time": 168,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "lateral_raise_2",
+                "priority_score": 21,
+                "est_time": 8,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "hack_squat_1",
+                "priority_score": 40,
+                "est_time": 9,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "machine_leg_curl_1",
+                "priority_score": 11,
+                "est_time": 7,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "ab_crunch",
+                "priority_score": 22,
+                "est_time": 5,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "machine_row_1",
+                "priority_score": 33,
+                "est_time": 6,
+                "num_sets": 3
+            }
+        ]
+    },
+    {
+        "uuid": "f4fba009-f55e-44ef-b4ec-b84fa73ae97c",
+        "entry_time": 170,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "linear_leg_press_2",
+                "priority_score": 18,
+                "est_time": 8,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "back_extension",
+                "priority_score": 35,
+                "est_time": 13,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "machine_leg_curl_2",
+                "priority_score": 25,
+                "est_time": 8,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "machine_leg_extension_1",
+                "priority_score": 31,
+                "est_time": 12,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "cable_lat_pulldown_2",
+                "priority_score": 32,
+                "est_time": 9,
+                "num_sets": 3
+            }
+        ]
+    },
+    {
+        "uuid": "session-012",
+        "entry_time": 172,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "hip_adductor",
+                "priority_score": 33,
+                "est_time": 9,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "linear_leg_press_1",
+                "priority_score": 28,
+                "est_time": 8,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "tricep_pushdown",
+                "priority_score": 15,
+                "est_time": 10,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "preacher_curl",
+                "priority_score": 44,
+                "est_time": 7,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "machine_leg_extension_2",
+                "priority_score": 22,
+                "est_time": 9,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 6,
+                "equipment_name": "back_extension",
+                "priority_score": 25,
+                "est_time": 12,
+                "num_sets": 4
+            }
+        ]
+    },
+    {
+        "uuid": "session-028",
+        "entry_time": 174,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "lateral_raise_1",
+                "priority_score": 32,
+                "est_time": 7,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "machine_incline_chest_press",
+                "priority_score": 44,
+                "est_time": 5,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "hack_squat_2",
+                "priority_score": 16,
+                "est_time": 11,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "seated_lat_pulldown",
+                "priority_score": 28,
+                "est_time": 9,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "hip_abductor",
+                "priority_score": 15,
+                "est_time": 10,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 6,
+                "equipment_name": "machine_leg_curl_2",
+                "priority_score": 40,
+                "est_time": 8,
+                "num_sets": 3
+            }
+        ]
+    },
+    {
+        "uuid": "5b059d24-086d-49d2-8032-eb0f0acce3dc",
+        "entry_time": 176,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "machine_calf_press",
+                "priority_score": 15,
+                "est_time": 8,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "linear_leg_press_2",
+                "priority_score": 26,
+                "est_time": 13,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "back_extension",
+                "priority_score": 17,
+                "est_time": 10,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "converging_shoulder_press",
+                "priority_score": 32,
+                "est_time": 9,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "machine_leg_curl_2",
+                "priority_score": 12,
+                "est_time": 9,
+                "num_sets": 3
+            }
+        ]
+    },
+    {
+        "uuid": "95a9d5bd-26fb-4102-8dd2-7dbc51a3e855",
+        "entry_time": 181,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "seated_leg_press",
+                "priority_score": 25,
+                "est_time": 12,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "back_extension",
+                "priority_score": 15,
+                "est_time": 10,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "machine_leg_curl_2",
+                "priority_score": 28,
+                "est_time": 9,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "machine_row_1",
+                "priority_score": 47,
+                "est_time": 11,
+                "num_sets": 3
+            }
+        ]
+    },
+    {
+        "uuid": "session-007",
+        "entry_time": 184,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "plate_loaded_shoulder_press",
+                "priority_score": 30,
+                "est_time": 11,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "machine_calf_press",
+                "priority_score": 17,
+                "est_time": 7,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "machine_row_2",
+                "priority_score": 22,
+                "est_time": 10,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "tricep_pushdown",
+                "priority_score": 36,
+                "est_time": 8,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "ab_crunch",
+                "priority_score": 14,
+                "est_time": 6,
+                "num_sets": 5
+            },
+            {
+                "sequence_number": 6,
+                "equipment_name": "glute_kickback",
+                "priority_score": 41,
+                "est_time": 8,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 7,
+                "equipment_name": "linear_leg_press_1",
+                "priority_score": 28,
+                "est_time": 9,
+                "num_sets": 4
+            }
+        ]
+    },
+    {
+        "uuid": "bbdd6ff9-1f7d-45d1-9237-ed95e07a9e47",
+        "entry_time": 185,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "machine_row_1",
+                "priority_score": 29,
+                "est_time": 13,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "machine_leg_extension_1",
+                "priority_score": 45,
+                "est_time": 11,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "linear_leg_press_1",
+                "priority_score": 38,
+                "est_time": 10,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "machine_leg_curl_2",
+                "priority_score": 35,
+                "est_time": 9,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "chest_fly_delt_2",
+                "priority_score": 16,
+                "est_time": 8,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 6,
+                "equipment_name": "machine_row_2",
+                "priority_score": 18,
+                "est_time": 12,
+                "num_sets": 4
+            }
+        ]
+    },
+    {
+        "uuid": "9e077a81-7770-4cb1-b91d-b62bccd64f8c",
+        "entry_time": 187,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "converging_shoulder_press",
+                "priority_score": 23,
+                "est_time": 11,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "machine_leg_curl_2",
+                "priority_score": 30,
+                "est_time": 10,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "seated_leg_press",
+                "priority_score": 18,
+                "est_time": 8,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "lateral_raise_1",
+                "priority_score": 48,
+                "est_time": 9,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "plate_loaded_shoulder_press",
+                "priority_score": 35,
+                "est_time": 12,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 6,
+                "equipment_name": "preacher_curl",
+                "priority_score": 36,
+                "est_time": 13,
+                "num_sets": 4
+            }
+        ]
+    },
+    {
+        "uuid": "87dfc7f3-b1a4-4dbc-b62f-3785d8bdc57a",
+        "entry_time": 189,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "seated_lat_pulldown",
+                "priority_score": 10,
+                "est_time": 12,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "machine_leg_curl_1",
+                "priority_score": 49,
+                "est_time": 11,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "hack_squat_1",
+                "priority_score": 47,
+                "est_time": 10,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "prone_leg_curl",
+                "priority_score": 14,
+                "est_time": 8,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "machine_calf_press",
+                "priority_score": 48,
+                "est_time": 9,
+                "num_sets": 3
+            }
+        ]
+    },
+    {
+        "uuid": "97666d34-8418-4f92-8ae0-6088f175d88b",
+        "entry_time": 190,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "machine_chest_press",
+                "priority_score": 29,
+                "est_time": 11,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "back_extension",
+                "priority_score": 17,
+                "est_time": 8,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "linear_leg_press_2",
+                "priority_score": 38,
+                "est_time": 10,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "hack_squat_1",
+                "priority_score": 16,
+                "est_time": 13,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "chest_fly_delt_2",
+                "priority_score": 41,
+                "est_time": 9,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 6,
+                "equipment_name": "machine_incline_chest_press",
+                "priority_score": 40,
+                "est_time": 11,
+                "num_sets": 3
+            }
+        ]
+    },
+    {
+        "uuid": "session-009",
+        "entry_time": 192,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "machine_shoulder_press",
+                "priority_score": 21,
+                "est_time": 10,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "machine_row_1",
+                "priority_score": 13,
+                "est_time": 12,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "plate_loaded_calf_press",
+                "priority_score": 30,
+                "est_time": 7,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "machine_leg_curl_1",
+                "priority_score": 24,
+                "est_time": 5,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "hip_abductor",
+                "priority_score": 36,
+                "est_time": 9,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 6,
+                "equipment_name": "seated_lat_pulldown",
+                "priority_score": 19,
+                "est_time": 6,
+                "num_sets": 4
+            }
+        ]
+    },
+    {
+        "uuid": "session-016",
+        "entry_time": 198,
+        "steps": [
+            {
+                "sequence_number": 1,
+                "equipment_name": "seated_lat_pulldown",
+                "priority_score": 27,
+                "est_time": 7,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 2,
+                "equipment_name": "linear_leg_press_1",
+                "priority_score": 40,
+                "est_time": 10,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 3,
+                "equipment_name": "preacher_curl",
+                "priority_score": 15,
+                "est_time": 9,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 4,
+                "equipment_name": "machine_row_2",
+                "priority_score": 32,
+                "est_time": 8,
+                "num_sets": 3
+            },
+            {
+                "sequence_number": 5,
+                "equipment_name": "machine_calf_press",
+                "priority_score": 13,
+                "est_time": 6,
+                "num_sets": 5
+            },
+            {
+                "sequence_number": 6,
+                "equipment_name": "lateral_raise_1",
+                "priority_score": 24,
+                "est_time": 11,
+                "num_sets": 4
+            },
+            {
+                "sequence_number": 7,
+                "equipment_name": "hack_squat_1",
+                "priority_score": 42,
+                "est_time": 8,
+                "num_sets": 3
+            }
+        ]
+    }
+]
